@@ -1,0 +1,13 @@
+{
+  "name": "getListOfCsgoSkins",
+  "version": "1.0.0",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "node-fetch": "^3.3.2",
+    "node-html-parser": "^6.1.10"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.4",
+    "typescript": "^5.2.2"
+  }
+}

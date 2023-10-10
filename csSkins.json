@@ -1,0 +1,6848 @@
+[
+  {
+    "collection": "Ancient Collection",
+    "quality": "Consumer Grade",
+    "skin": "Inlay",
+    "weapon": "R8 Revolver"
+  },
+  {
+    "collection": "Ancient Collection",
+    "quality": "Consumer Grade",
+    "skin": "Submerged",
+    "weapon": "M249"
+  },
+  {
+    "collection": "Ancient Collection",
+    "quality": "Consumer Grade",
+    "skin": "Hieroglyph",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "Ancient Collection",
+    "quality": "Consumer Grade",
+    "skin": "Sunbaked",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "Ancient Collection",
+    "quality": "Consumer Grade",
+    "skin": "Snake Pit",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "Ancient Collection",
+    "quality": "Industrial Grade",
+    "skin": "Mud-Spec",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "Ancient Collection",
+    "quality": "Industrial Grade",
+    "skin": "Azure Glyph",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "Ancient Collection",
+    "quality": "Industrial Grade",
+    "skin": "Desert Tactical",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "Ancient Collection",
+    "quality": "Industrial Grade",
+    "skin": "Echoing Sands",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Ancient Collection",
+    "quality": "Mil-Spec",
+    "skin": "Mummy's Rot",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Ancient Collection",
+    "quality": "Mil-Spec",
+    "skin": "Steel Delta",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Ancient Collection",
+    "quality": "Mil-Spec",
+    "skin": "Black Nile",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Ancient Collection",
+    "quality": "Mil-Spec",
+    "skin": "Copper Coated",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "Ancient Collection",
+    "quality": "Restricted",
+    "skin": "Ramese's Reach",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "Ancient Collection",
+    "quality": "Restricted",
+    "skin": "Sobek's Bite",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "Ancient Collection",
+    "quality": "Restricted",
+    "skin": "ScaraB Rush",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Ancient Collection",
+    "quality": "Classified",
+    "skin": "Waters of Nephthys",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "Ancient Collection",
+    "quality": "Classified",
+    "skin": "Apep's Curse",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Ancient Collection",
+    "quality": "Covert",
+    "skin": "Eye of Horus",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "Anubis Collection",
+    "quality": "Consumer Grade",
+    "skin": "Army Sheen",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "Anubis Collection",
+    "quality": "Consumer Grade",
+    "skin": "Lush Ruins",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "Anubis Collection",
+    "quality": "Consumer Grade",
+    "skin": "Ancient Earth",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Anubis Collection",
+    "quality": "Consumer Grade",
+    "skin": "Jungle Dashed",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "Anubis Collection",
+    "quality": "Consumer Grade",
+    "skin": "Night",
+    "weapon": "R8 Revolver"
+  },
+  {
+    "collection": "Anubis Collection",
+    "quality": "Industrial Grade",
+    "skin": "Tall Grass",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "Anubis Collection",
+    "quality": "Industrial Grade",
+    "skin": "Panther Camo",
+    "weapon": "P2000"
+  },
+  {
+    "collection": "Anubis Collection",
+    "quality": "Industrial Grade",
+    "skin": "Ancient Ritual",
+    "weapon": "G3SG1"
+  },
+  {
+    "collection": "Anubis Collection",
+    "quality": "Industrial Grade",
+    "skin": "Silver",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "Anubis Collection",
+    "quality": "Mil-Spec",
+    "skin": "Dark Water",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "Anubis Collection",
+    "quality": "Mil-Spec",
+    "skin": "Dusk Ruins",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "Anubis Collection",
+    "quality": "Mil-Spec",
+    "skin": "Carved Jade",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "Anubis Collection",
+    "quality": "Mil-Spec",
+    "skin": "Blast From the Past",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Anubis Collection",
+    "quality": "Restricted",
+    "skin": "Ancient Lore",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "Anubis Collection",
+    "quality": "Restricted",
+    "skin": "Gold Brick",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Anubis Collection",
+    "quality": "Restricted",
+    "skin": "Ancient Visions",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "Anubis Collection",
+    "quality": "Classified",
+    "skin": "Run and Hide",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Anubis Collection",
+    "quality": "Classified",
+    "skin": "Panthera onca",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Anubis Collection",
+    "quality": "Covert",
+    "skin": "Welcome to the Jungle",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "Assault Collection",
+    "quality": "Consumer Grade",
+    "skin": "Tornado",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "Assault Collection",
+    "quality": "Consumer Grade",
+    "skin": "Caramel",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "Assault Collection",
+    "quality": "Industrial Grade",
+    "skin": "Candy Apple",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "Assault Collection",
+    "quality": "Mil-Spec",
+    "skin": "Hot Rod",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "Assault Collection",
+    "quality": "Mil-Spec",
+    "skin": "Anodized Navy",
+    "weapon": "Negev"
+  },
+  {
+    "collection": "Assault Collection",
+    "quality": "Restricted",
+    "skin": "Bulldozer",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "Assault Collection",
+    "quality": "Restricted",
+    "skin": "Fade",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "Aztec Collection",
+    "quality": "Consumer Grade",
+    "skin": "Forest Leaves",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "Aztec Collection",
+    "quality": "Consumer Grade",
+    "skin": "Jungle",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "Aztec Collection",
+    "quality": "Consumer Grade",
+    "skin": "Lichen Dashed",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "Aztec Collection",
+    "quality": "Industrial Grade",
+    "skin": "Jungle Spray",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Aztec Collection",
+    "quality": "Industrial Grade",
+    "skin": "Jungle Tiger",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "Aztec Collection",
+    "quality": "Mil-Spec",
+    "skin": "Ossified",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Baggage Collection",
+    "quality": "Consumer Grade",
+    "skin": "Contractor",
+    "weapon": "G3SG1"
+  },
+  {
+    "collection": "Baggage Collection",
+    "quality": "Consumer Grade",
+    "skin": "Olive Plaid",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "Baggage Collection",
+    "quality": "Consumer Grade",
+    "skin": "Green Plaid",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "Baggage Collection",
+    "quality": "Consumer Grade",
+    "skin": "Green Plaid",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "Baggage Collection",
+    "quality": "Consumer Grade",
+    "skin": "Sand Dune",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "Baggage Collection",
+    "quality": "Industrial Grade",
+    "skin": "Traveler",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "Baggage Collection",
+    "quality": "Industrial Grade",
+    "skin": "Leather",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Baggage Collection",
+    "quality": "Industrial Grade",
+    "skin": "Commuter",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Baggage Collection",
+    "quality": "Industrial Grade",
+    "skin": "Coach Class",
+    "weapon": "P2000"
+  },
+  {
+    "collection": "Baggage Collection",
+    "quality": "Mil-Spec",
+    "skin": "First Class",
+    "weapon": "Sawed-Off"
+  },
+  {
+    "collection": "Baggage Collection",
+    "quality": "Mil-Spec",
+    "skin": "Business Class",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "Baggage Collection",
+    "quality": "Mil-Spec",
+    "skin": "Red Leather",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "Baggage Collection",
+    "quality": "Restricted",
+    "skin": "First Class",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Baggage Collection",
+    "quality": "Restricted",
+    "skin": "Pilot",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "Baggage Collection",
+    "quality": "Classified",
+    "skin": "Jet Set",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Bank Collection",
+    "quality": "Consumer Grade",
+    "skin": "Urban DDPAT",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Bank Collection",
+    "quality": "Consumer Grade",
+    "skin": "Army Sheen",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "Bank Collection",
+    "quality": "Consumer Grade",
+    "skin": "Forest DDPAT",
+    "weapon": "Sawed-Off"
+  },
+  {
+    "collection": "Bank Collection",
+    "quality": "Consumer Grade",
+    "skin": "Army Sheen",
+    "weapon": "Negev"
+  },
+  {
+    "collection": "Bank Collection",
+    "quality": "Consumer Grade",
+    "skin": "Forest DDPAT",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "Bank Collection",
+    "quality": "Consumer Grade",
+    "skin": "Bone Mask",
+    "weapon": "R8 Revolver"
+  },
+  {
+    "collection": "Bank Collection",
+    "quality": "Industrial Grade",
+    "skin": "Carbon Fiber",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "Bank Collection",
+    "quality": "Industrial Grade",
+    "skin": "Caged Steel",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "Bank Collection",
+    "quality": "Industrial Grade",
+    "skin": "Silver",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Bank Collection",
+    "quality": "Industrial Grade",
+    "skin": "Death Rattle",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "Bank Collection",
+    "quality": "Industrial Grade",
+    "skin": "Green Apple",
+    "weapon": "G3SG1"
+  },
+  {
+    "collection": "Bank Collection",
+    "quality": "Mil-Spec",
+    "skin": "Tuxedo",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "Bank Collection",
+    "quality": "Mil-Spec",
+    "skin": "Meteorite",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "Bank Collection",
+    "quality": "Mil-Spec",
+    "skin": "Tuxedo",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "Bank Collection",
+    "quality": "Restricted",
+    "skin": "Emerald Pinstripe",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Bank Collection",
+    "quality": "Classified",
+    "skin": "Franklin",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Blacksite Collection",
+    "quality": "Restricted",
+    "skin": "Lab Rats",
+    "weapon": "MP5-SD"
+  },
+  {
+    "collection": "Cache Collection",
+    "quality": "Industrial Grade",
+    "skin": "Nuclear Waste",
+    "weapon": "Negev"
+  },
+  {
+    "collection": "Cache Collection",
+    "quality": "Industrial Grade",
+    "skin": "Contamination",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Cache Collection",
+    "quality": "Industrial Grade",
+    "skin": "Radiation Hazard",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "Cache Collection",
+    "quality": "Industrial Grade",
+    "skin": "Chemical Green",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "Cache Collection",
+    "quality": "Industrial Grade",
+    "skin": "Fallout Warning",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "Cache Collection",
+    "quality": "Industrial Grade",
+    "skin": "Hot Shot",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "Cache Collection",
+    "quality": "Mil-Spec",
+    "skin": "Reactor",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "Cache Collection",
+    "quality": "Mil-Spec",
+    "skin": "Setting Sun",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "Cache Collection",
+    "quality": "Mil-Spec",
+    "skin": "Bone Machine",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "Cache Collection",
+    "quality": "Mil-Spec",
+    "skin": "Nuclear Garden",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Cache Collection",
+    "quality": "Mil-Spec",
+    "skin": "Toxic",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Cache Collection",
+    "quality": "Restricted",
+    "skin": "Styx",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "Cache Collection",
+    "quality": "Restricted",
+    "skin": "Cerberus",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "Canals Collection",
+    "quality": "Consumer Grade",
+    "skin": "Indigo",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "Canals Collection",
+    "quality": "Consumer Grade",
+    "skin": "Navy Murano",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "Canals Collection",
+    "quality": "Consumer Grade",
+    "skin": "Canal Spray",
+    "weapon": "R8 Revolver"
+  },
+  {
+    "collection": "Canals Collection",
+    "quality": "Consumer Grade",
+    "skin": "Boroque Sand",
+    "weapon": "Negev"
+  },
+  {
+    "collection": "Canals Collection",
+    "quality": "Consumer Grade",
+    "skin": "Stone Mosaico",
+    "weapon": "SCAR-20"
+  },
+  {
+    "collection": "Canals Collection",
+    "quality": "Industrial Grade",
+    "skin": "Baroque Purple",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Canals Collection",
+    "quality": "Industrial Grade",
+    "skin": "Candy Apple",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "Canals Collection",
+    "quality": "Industrial Grade",
+    "skin": "Orange Murano",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Canals Collection",
+    "quality": "Industrial Grade",
+    "skin": "Dark Filigree",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Canals Collection",
+    "quality": "Mil-Spec",
+    "skin": "Emerald",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "Canals Collection",
+    "quality": "Mil-Spec",
+    "skin": "Baroque Red",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Canals Collection",
+    "quality": "Mil-Spec",
+    "skin": "Orange Filigree",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "Canals Collection",
+    "quality": "Mil-Spec",
+    "skin": "Violet Murano",
+    "weapon": "G3SG1"
+  },
+  {
+    "collection": "Canals Collection",
+    "quality": "Restricted",
+    "skin": "Red Filigree",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Canals Collection",
+    "quality": "Restricted",
+    "skin": "Baroque Orange",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "Canals Collection",
+    "quality": "Restricted",
+    "skin": "Stained Glass",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "Canals Collection",
+    "quality": "Restricted",
+    "skin": "Cinquedea",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "Canals Collection",
+    "quality": "Covert",
+    "skin": "The Prince",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Cobblestone Collection",
+    "quality": "Consumer Grade",
+    "skin": "Storm",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Cobblestone Collection",
+    "quality": "Consumer Grade",
+    "skin": "Indigo",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "Cobblestone Collection",
+    "quality": "Consumer Grade",
+    "skin": "Indigo",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Cobblestone Collection",
+    "quality": "Consumer Grade",
+    "skin": "Storm",
+    "weapon": "SCAR-20"
+  },
+  {
+    "collection": "Cobblestone Collection",
+    "quality": "Consumer Grade",
+    "skin": "Briar",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "Cobblestone Collection",
+    "quality": "Industrial Grade",
+    "skin": "Royal Blue",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "Cobblestone Collection",
+    "quality": "Industrial Grade",
+    "skin": "Green Apple",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "Cobblestone Collection",
+    "quality": "Industrial Grade",
+    "skin": "Silver",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "Cobblestone Collection",
+    "quality": "Industrial Grade",
+    "skin": "Rust Coat",
+    "weapon": "Sawed-Off"
+  },
+  {
+    "collection": "Cobblestone Collection",
+    "quality": "Mil-Spec",
+    "skin": "Chainmail",
+    "weapon": "P2000"
+  },
+  {
+    "collection": "Cobblestone Collection",
+    "quality": "Mil-Spec",
+    "skin": "Dark Age",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "Cobblestone Collection",
+    "quality": "Restricted",
+    "skin": "Hand Cannon",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "Cobblestone Collection",
+    "quality": "Restricted",
+    "skin": "Chalice",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "Cobblestone Collection",
+    "quality": "Classified",
+    "skin": "Knight",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "Cobblestone Collection",
+    "quality": "Covert",
+    "skin": "Dragon Lore",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Dust Collection",
+    "quality": "Industrial Grade",
+    "skin": "Desert Storm",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "Dust Collection",
+    "quality": "Industrial Grade",
+    "skin": "Palm",
+    "weapon": "SCAR-20"
+  },
+  {
+    "collection": "Dust Collection",
+    "quality": "Industrial Grade",
+    "skin": "Predator",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Dust Collection",
+    "quality": "Mil-Spec",
+    "skin": "Snake Camo",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Dust Collection",
+    "quality": "Mil-Spec",
+    "skin": "Copperhead",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "Dust Collection",
+    "quality": "Mil-Spec",
+    "skin": "Copper",
+    "weapon": "Sawed-Off"
+  },
+  {
+    "collection": "Dust Collection",
+    "quality": "Restricted",
+    "skin": "Blaze",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "Dust Collection",
+    "quality": "Restricted",
+    "skin": "Scorpion",
+    "weapon": "P2000"
+  },
+  {
+    "collection": "Dust Collection",
+    "quality": "Restricted",
+    "skin": "Brass",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "Dust II Collection",
+    "quality": "Consumer Grade",
+    "skin": "Predator",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "Dust II Collection",
+    "quality": "Consumer Grade",
+    "skin": "Sand Dashed",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "Dust II Collection",
+    "quality": "Consumer Grade",
+    "skin": "Sand Spray",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Dust II Collection",
+    "quality": "Consumer Grade",
+    "skin": "Sand Mesh",
+    "weapon": "SCAR-20"
+  },
+  {
+    "collection": "Dust II Collection",
+    "quality": "Consumer Grade",
+    "skin": "Sand Dune",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Dust II Collection",
+    "quality": "Consumer Grade",
+    "skin": "Desert Storm",
+    "weapon": "G3SG1"
+  },
+  {
+    "collection": "Dust II Collection",
+    "quality": "Industrial Grade",
+    "skin": "VariCamo",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Dust II Collection",
+    "quality": "Industrial Grade",
+    "skin": "Palm",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Dust II Collection",
+    "quality": "Industrial Grade",
+    "skin": "Orange Peel",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "Dust II Collection",
+    "quality": "Industrial Grade",
+    "skin": "Safari Mesh",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Dust II Collection",
+    "quality": "Industrial Grade",
+    "skin": "Snake Camo",
+    "weapon": "Sawed-Off"
+  },
+  {
+    "collection": "Dust II Collection",
+    "quality": "Mil-Spec",
+    "skin": "VariCamo",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "Dust II Collection",
+    "quality": "Mil-Spec",
+    "skin": "Brass",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "Dust II Collection",
+    "quality": "Mil-Spec",
+    "skin": "Damascus Steel",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "Dust II Collection",
+    "quality": "Restricted",
+    "skin": "Amber Fade",
+    "weapon": "P2000"
+  },
+  {
+    "collection": "Dust II Collection",
+    "quality": "Classified",
+    "skin": "Amber Fade",
+    "weapon": "R8 Revolver"
+  },
+  {
+    "collection": "Inferno Collection",
+    "quality": "Consumer Grade",
+    "skin": "Sand Dune",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "Inferno Collection",
+    "quality": "Consumer Grade",
+    "skin": "Walnut",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "Inferno Collection",
+    "quality": "Industrial Grade",
+    "skin": "Gunsmoke",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Inferno Collection",
+    "quality": "Industrial Grade",
+    "skin": "Tornado",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "Inferno Collection",
+    "quality": "Mil-Spec",
+    "skin": "Anodized Navy",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "Inferno Collection",
+    "quality": "Mil-Spec",
+    "skin": "Brass",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Italy Collection",
+    "quality": "Consumer Grade",
+    "skin": "Sand Dashed",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "Italy Collection",
+    "quality": "Consumer Grade",
+    "skin": "Sand Dune",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "Italy Collection",
+    "quality": "Consumer Grade",
+    "skin": "Colony",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "Italy Collection",
+    "quality": "Consumer Grade",
+    "skin": "Contractor",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "Italy Collection",
+    "quality": "Consumer Grade",
+    "skin": "Groundwater",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Italy Collection",
+    "quality": "Industrial Grade",
+    "skin": "Candy Apple",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "Italy Collection",
+    "quality": "Industrial Grade",
+    "skin": "Stained",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "Italy Collection",
+    "quality": "Industrial Grade",
+    "skin": "Granite Marbleized",
+    "weapon": "P2000"
+  },
+  {
+    "collection": "Italy Collection",
+    "quality": "Industrial Grade",
+    "skin": "Gunsmoke",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "Italy Collection",
+    "quality": "Industrial Grade",
+    "skin": "Boreal Forest",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "Italy Collection",
+    "quality": "Industrial Grade",
+    "skin": "CaliCamo",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "Italy Collection",
+    "quality": "Mil-Spec",
+    "skin": "Anodized Navy",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "Italy Collection",
+    "quality": "Mil-Spec",
+    "skin": "Candy Apple",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "Italy Collection",
+    "quality": "Mil-Spec",
+    "skin": "Full Stop",
+    "weapon": "Sawed-Off"
+  },
+  {
+    "collection": "Italy Collection",
+    "quality": "Restricted",
+    "skin": "Pit Viper",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Lake Collection",
+    "quality": "Consumer Grade",
+    "skin": "Jungle Dashed",
+    "weapon": "G3SG1"
+  },
+  {
+    "collection": "Lake Collection",
+    "quality": "Consumer Grade",
+    "skin": "Waves Perforated",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "Lake Collection",
+    "quality": "Consumer Grade",
+    "skin": "Sage Spray",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "Lake Collection",
+    "quality": "Consumer Grade",
+    "skin": "Storm",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "Lake Collection",
+    "quality": "Consumer Grade",
+    "skin": "Blue Spruce",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "Lake Collection",
+    "quality": "Consumer Grade",
+    "skin": "Boreal Forest",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Lake Collection",
+    "quality": "Industrial Grade",
+    "skin": "Blue Steel",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "Lake Collection",
+    "quality": "Industrial Grade",
+    "skin": "Cyanospatter",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "Lake Collection",
+    "quality": "Industrial Grade",
+    "skin": "Night Ops",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "Lake Collection",
+    "quality": "Industrial Grade",
+    "skin": "Safari Mesh",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Lake Collection",
+    "quality": "Industrial Grade",
+    "skin": "Mudder",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "Lake Collection",
+    "quality": "Mil-Spec",
+    "skin": "Anodized Navy",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "Lake Collection",
+    "quality": "Mil-Spec",
+    "skin": "Teardown",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Lake Collection",
+    "quality": "Mil-Spec",
+    "skin": "Night Ops",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "Lake Collection",
+    "quality": "Restricted",
+    "skin": "Cobalt Quartz",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "Militia Collection",
+    "quality": "Consumer Grade",
+    "skin": "Grassland",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "Militia Collection",
+    "quality": "Consumer Grade",
+    "skin": "Tornado",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Militia Collection",
+    "quality": "Consumer Grade",
+    "skin": "Forest Leaves",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "Militia Collection",
+    "quality": "Industrial Grade",
+    "skin": "Grassland Leaves",
+    "weapon": "P2000"
+  },
+  {
+    "collection": "Militia Collection",
+    "quality": "Mil-Spec",
+    "skin": "Modern Hunter",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "Militia Collection",
+    "quality": "Mil-Spec",
+    "skin": "Blaze Orange",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "Militia Collection",
+    "quality": "Mil-Spec",
+    "skin": "Modern Hunter",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Militia Collection",
+    "quality": "Mil-Spec",
+    "skin": "Blaze Orange",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "Militia Collection",
+    "quality": "Mil-Spec",
+    "skin": "Modern Hunter",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "Militia Collection",
+    "quality": "Restricted",
+    "skin": "Modern Hunter",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "Militia Collection",
+    "quality": "Classified",
+    "skin": "Splash Jam",
+    "weapon": "SCAR-20"
+  },
+  {
+    "collection": "Mirage Collection",
+    "quality": "Consumer Grade",
+    "skin": "Hunting Blind",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "Mirage Collection",
+    "quality": "Consumer Grade",
+    "skin": "Scorched",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Mirage Collection",
+    "quality": "Consumer Grade",
+    "skin": "Safari Mesh",
+    "weapon": "G3SG1"
+  },
+  {
+    "collection": "Mirage Collection",
+    "quality": "Consumer Grade",
+    "skin": "Colony",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "Mirage Collection",
+    "quality": "Consumer Grade",
+    "skin": "Contractor",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "Mirage Collection",
+    "quality": "Consumer Grade",
+    "skin": "Bone Mask",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Mirage Collection",
+    "quality": "Industrial Grade",
+    "skin": "Orange Peel",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "Mirage Collection",
+    "quality": "Industrial Grade",
+    "skin": "Groundwater",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "Mirage Collection",
+    "quality": "Industrial Grade",
+    "skin": "Gator Mesh",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "Mirage Collection",
+    "quality": "Industrial Grade",
+    "skin": "Tropical Storm",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "Mirage Collection",
+    "quality": "Industrial Grade",
+    "skin": "CaliCamo",
+    "weapon": "Negev"
+  },
+  {
+    "collection": "Mirage Collection",
+    "quality": "Mil-Spec",
+    "skin": "Hot Rod",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "Mirage Collection",
+    "quality": "Mil-Spec",
+    "skin": "Blaze",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "Mirage Collection",
+    "quality": "Mil-Spec",
+    "skin": "Amber Fade",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Mirage Collection",
+    "quality": "Restricted",
+    "skin": "Bulldozer",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "Nuke Collection",
+    "quality": "Consumer Grade",
+    "skin": "Irradiated Alert",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "Nuke Collection",
+    "quality": "Consumer Grade",
+    "skin": "Irradiated Alert",
+    "weapon": "Sawed-Off"
+  },
+  {
+    "collection": "Nuke Collection",
+    "quality": "Consumer Grade",
+    "skin": "Irradiated Alert",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "Nuke Collection",
+    "quality": "Industrial Grade",
+    "skin": "Fallout Warning",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Nuke Collection",
+    "quality": "Industrial Grade",
+    "skin": "Fallout Warning",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "Nuke Collection",
+    "quality": "Industrial Grade",
+    "skin": "Fallout Warning",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "Nuke Collection",
+    "quality": "Mil-Spec",
+    "skin": "Radiation Hazard",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "Nuke Collection",
+    "quality": "Restricted",
+    "skin": "Nuclear Threat",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Nuke Collection",
+    "quality": "Restricted",
+    "skin": "Nuclear Threat",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Office Collection",
+    "quality": "Consumer Grade",
+    "skin": "Contrast Spray",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "Office Collection",
+    "quality": "Industrial Grade",
+    "skin": "Winter Forest",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "Office Collection",
+    "quality": "Industrial Grade",
+    "skin": "Arctic Camo",
+    "weapon": "G3SG1"
+  },
+  {
+    "collection": "Office Collection",
+    "quality": "Industrial Grade",
+    "skin": "Blizzard Marbleized",
+    "weapon": "M249"
+  },
+  {
+    "collection": "Office Collection",
+    "quality": "Mil-Spec",
+    "skin": "Silver",
+    "weapon": "P2000"
+  },
+  {
+    "collection": "Office Collection",
+    "quality": "Mil-Spec",
+    "skin": "Whiteout",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "Overpass Collection",
+    "quality": "Consumer Grade",
+    "skin": "Sage Spray",
+    "weapon": "Sawed-Off"
+  },
+  {
+    "collection": "Overpass Collection",
+    "quality": "Consumer Grade",
+    "skin": "Scorched",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "Overpass Collection",
+    "quality": "Consumer Grade",
+    "skin": "Contrast Spray",
+    "weapon": "M249"
+  },
+  {
+    "collection": "Overpass Collection",
+    "quality": "Consumer Grade",
+    "skin": "Storm",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "Overpass Collection",
+    "quality": "Consumer Grade",
+    "skin": "Storm",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "Overpass Collection",
+    "quality": "Industrial Grade",
+    "skin": "Urban DDPAT",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "Overpass Collection",
+    "quality": "Industrial Grade",
+    "skin": "Gunsmoke",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "Overpass Collection",
+    "quality": "Industrial Grade",
+    "skin": "Night",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "Overpass Collection",
+    "quality": "Industrial Grade",
+    "skin": "Grassland",
+    "weapon": "P2000"
+  },
+  {
+    "collection": "Overpass Collection",
+    "quality": "Mil-Spec",
+    "skin": "Nitro",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "Overpass Collection",
+    "quality": "Mil-Spec",
+    "skin": "Detour",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "Overpass Collection",
+    "quality": "Mil-Spec",
+    "skin": "VariCamo Blue",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "Overpass Collection",
+    "quality": "Restricted",
+    "skin": "Pink DDPAT",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Overpass Collection",
+    "quality": "Restricted",
+    "skin": "Road Rash",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "Overpass Collection",
+    "quality": "Classified",
+    "skin": "Master Piece",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "Safehouse Collection",
+    "quality": "Consumer Grade",
+    "skin": "Contractor",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "Safehouse Collection",
+    "quality": "Consumer Grade",
+    "skin": "Army Recon",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "Safehouse Collection",
+    "quality": "Consumer Grade",
+    "skin": "Army Mesh",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Safehouse Collection",
+    "quality": "Consumer Grade",
+    "skin": "Blue Spruce",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "Safehouse Collection",
+    "quality": "Consumer Grade",
+    "skin": "Contractor",
+    "weapon": "SCAR-20"
+  },
+  {
+    "collection": "Safehouse Collection",
+    "quality": "Industrial Grade",
+    "skin": "Orange Peel",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "Safehouse Collection",
+    "quality": "Industrial Grade",
+    "skin": "Condemned",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "Safehouse Collection",
+    "quality": "Industrial Grade",
+    "skin": "Forest Leaves",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "Safehouse Collection",
+    "quality": "Industrial Grade",
+    "skin": "VariCamo",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "Safehouse Collection",
+    "quality": "Industrial Grade",
+    "skin": "Gator Mesh",
+    "weapon": "M249"
+  },
+  {
+    "collection": "Safehouse Collection",
+    "quality": "Industrial Grade",
+    "skin": "VariCamo",
+    "weapon": "G3SG1"
+  },
+  {
+    "collection": "Safehouse Collection",
+    "quality": "Mil-Spec",
+    "skin": "Teardown",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "Safehouse Collection",
+    "quality": "Mil-Spec",
+    "skin": "Silver Quartz",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "Safehouse Collection",
+    "quality": "Mil-Spec",
+    "skin": "Acid Fade",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "Safehouse Collection",
+    "quality": "Restricted",
+    "skin": "Nitro",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "St. Marc Collection",
+    "quality": "Consumer Grade",
+    "skin": "Jungle",
+    "weapon": "M249"
+  },
+  {
+    "collection": "St. Marc Collection",
+    "quality": "Consumer Grade",
+    "skin": "Bamboo Garden",
+    "weapon": "MP5-SD"
+  },
+  {
+    "collection": "St. Marc Collection",
+    "quality": "Consumer Grade",
+    "skin": "Surfwood",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "St. Marc Collection",
+    "quality": "Consumer Grade",
+    "skin": "Seabird",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "St. Marc Collection",
+    "quality": "Consumer Grade",
+    "skin": "Jungle Thicket",
+    "weapon": "Sawed-Off"
+  },
+  {
+    "collection": "St. Marc Collection",
+    "quality": "Industrial Grade",
+    "skin": "Dark Blossom",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "St. Marc Collection",
+    "quality": "Industrial Grade",
+    "skin": "Sunset Lily",
+    "weapon": "P90"
+  },
+  {
+    "collection": "St. Marc Collection",
+    "quality": "Industrial Grade",
+    "skin": "Rust Leaf",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "St. Marc Collection",
+    "quality": "Industrial Grade",
+    "skin": "Banana Leaf",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "St. Marc Collection",
+    "quality": "Mil-Spec",
+    "skin": "Teal Blossom",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "St. Marc Collection",
+    "quality": "Mil-Spec",
+    "skin": "Crimson Blossom",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "St. Marc Collection",
+    "quality": "Mil-Spec",
+    "skin": "Sundown",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "St. Marc Collection",
+    "quality": "Mil-Spec",
+    "skin": "Day Lily",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "St. Marc Collection",
+    "quality": "Restricted",
+    "skin": "Midnight Lily",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "St. Marc Collection",
+    "quality": "Restricted",
+    "skin": "Sea Calico",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "St. Marc Collection",
+    "quality": "Restricted",
+    "skin": "Synth Leaf",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "St. Marc Collection",
+    "quality": "Classified",
+    "skin": "Wild Lily",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "St. Marc Collection",
+    "quality": "Covert",
+    "skin": "Wild Lotus",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Train Collection",
+    "quality": "Consumer Grade",
+    "skin": "Urban Dashed",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "Train Collection",
+    "quality": "Consumer Grade",
+    "skin": "Polar Mesh",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "Train Collection",
+    "quality": "Consumer Grade",
+    "skin": "Forest Night",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "Train Collection",
+    "quality": "Consumer Grade",
+    "skin": "Polar Camo",
+    "weapon": "G3SG1"
+  },
+  {
+    "collection": "Train Collection",
+    "quality": "Consumer Grade",
+    "skin": "Colony",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "Train Collection",
+    "quality": "Consumer Grade",
+    "skin": "Urban DDPAT",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "Train Collection",
+    "quality": "Industrial Grade",
+    "skin": "Urban DDPAT",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "Train Collection",
+    "quality": "Industrial Grade",
+    "skin": "Candy Apple",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Train Collection",
+    "quality": "Industrial Grade",
+    "skin": "Ash Wood",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Train Collection",
+    "quality": "Industrial Grade",
+    "skin": "Carbon Fiber",
+    "weapon": "SCAR-20"
+  },
+  {
+    "collection": "Train Collection",
+    "quality": "Industrial Grade",
+    "skin": "Metallic DDPAT",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "Train Collection",
+    "quality": "Industrial Grade",
+    "skin": "Metallic DDPAT",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Train Collection",
+    "quality": "Mil-Spec",
+    "skin": "Amber Fade",
+    "weapon": "Sawed-Off"
+  },
+  {
+    "collection": "Train Collection",
+    "quality": "Mil-Spec",
+    "skin": "Urban Rubble",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "Train Collection",
+    "quality": "Restricted",
+    "skin": "Red Quartz",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Vertigo Collection",
+    "quality": "Consumer Grade",
+    "skin": "Urban Perforated",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "Vertigo Collection",
+    "quality": "Consumer Grade",
+    "skin": "Urban DDPAT",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Vertigo Collection",
+    "quality": "Industrial Grade",
+    "skin": "Carbon Fiber",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "Vertigo Collection",
+    "quality": "Mil-Spec",
+    "skin": "Glacier Mesh",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Vertigo Collection",
+    "quality": "Mil-Spec",
+    "skin": "Black Laminate",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Vertigo Collection",
+    "quality": "Restricted",
+    "skin": "Demolition",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "2018 Inferno Collection",
+    "quality": "Consumer Grade",
+    "skin": "Rust Coat",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "2018 Inferno Collection",
+    "quality": "Consumer Grade",
+    "skin": "Sweeper",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "2018 Inferno Collection",
+    "quality": "Consumer Grade",
+    "skin": "Mudder",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "2018 Inferno Collection",
+    "quality": "Consumer Grade",
+    "skin": "Slide",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "2018 Inferno Collection",
+    "quality": "Consumer Grade",
+    "skin": "Dirt Drop",
+    "weapon": "MP5-SD"
+  },
+  {
+    "collection": "2018 Inferno Collection",
+    "quality": "Industrial Grade",
+    "skin": "Candy Apple",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "2018 Inferno Collection",
+    "quality": "Industrial Grade",
+    "skin": "Calf Skin",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "2018 Inferno Collection",
+    "quality": "Industrial Grade",
+    "skin": "Nitro",
+    "weapon": "R8 Revolver"
+  },
+  {
+    "collection": "2018 Inferno Collection",
+    "quality": "Industrial Grade",
+    "skin": "High Beam",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "2018 Inferno Collection",
+    "quality": "Mil-Spec",
+    "skin": "Brake Light",
+    "weapon": "Sawed-Off"
+  },
+  {
+    "collection": "2018 Inferno Collection",
+    "quality": "Mil-Spec",
+    "skin": "Hand Brake",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "2018 Inferno Collection",
+    "quality": "Mil-Spec",
+    "skin": "Check Engine",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "2018 Inferno Collection",
+    "quality": "Mil-Spec",
+    "skin": "Converter",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "2018 Inferno Collection",
+    "quality": "Restricted",
+    "skin": "Vino Primo",
+    "weapon": "P250"
+  },
+  {
+    "collection": "2018 Inferno Collection",
+    "quality": "Restricted",
+    "skin": "Fade",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "2018 Inferno Collection",
+    "quality": "Restricted",
+    "skin": "Safety Net",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "2018 Inferno Collection",
+    "quality": "Classified",
+    "skin": "Twin Turbo",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "2018 Inferno Collection",
+    "quality": "Classified",
+    "skin": "Integrale",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "2018 Nuke Collection",
+    "quality": "Consumer Grade",
+    "skin": "Mandrel",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "2018 Nuke Collection",
+    "quality": "Consumer Grade",
+    "skin": "Facility Sketch",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "2018 Nuke Collection",
+    "quality": "Consumer Grade",
+    "skin": "Facility Dark",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "2018 Nuke Collection",
+    "quality": "Consumer Grade",
+    "skin": "Coolant",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "2018 Nuke Collection",
+    "quality": "Consumer Grade",
+    "skin": "Facility Draft",
+    "weapon": "P250"
+  },
+  {
+    "collection": "2018 Nuke Collection",
+    "quality": "Industrial Grade",
+    "skin": "Motherboard",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "2018 Nuke Collection",
+    "quality": "Industrial Grade",
+    "skin": "Bulkhead",
+    "weapon": "Negev"
+  },
+  {
+    "collection": "2018 Nuke Collection",
+    "quality": "Industrial Grade",
+    "skin": "Cold Fusion",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "2018 Nuke Collection",
+    "quality": "Industrial Grade",
+    "skin": "Mainframe",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "2018 Nuke Collection",
+    "quality": "Mil-Spec",
+    "skin": "Exchanger",
+    "weapon": "P250"
+  },
+  {
+    "collection": "2018 Nuke Collection",
+    "quality": "Mil-Spec",
+    "skin": "Facility Negative",
+    "weapon": "P90"
+  },
+  {
+    "collection": "2018 Nuke Collection",
+    "quality": "Mil-Spec",
+    "skin": "Co-Processor",
+    "weapon": "MP5-SD"
+  },
+  {
+    "collection": "2018 Nuke Collection",
+    "quality": "Mil-Spec",
+    "skin": "Acheron",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "2018 Nuke Collection",
+    "quality": "Restricted",
+    "skin": "Core Breach",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "2018 Nuke Collection",
+    "quality": "Restricted",
+    "skin": "Random Access",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "2018 Nuke Collection",
+    "quality": "Restricted",
+    "skin": "Nuclear Garden",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "2018 Nuke Collection",
+    "quality": "Classified",
+    "skin": "Remote Control",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "2018 Nuke Collection",
+    "quality": "Classified",
+    "skin": "Control Panel",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "2021 Dust II Collection",
+    "quality": "Consumer Grade",
+    "skin": "Desert Brush",
+    "weapon": "R8 Revolver"
+  },
+  {
+    "collection": "2021 Dust II Collection",
+    "quality": "Consumer Grade",
+    "skin": "Desert DDPAT",
+    "weapon": "P90"
+  },
+  {
+    "collection": "2021 Dust II Collection",
+    "quality": "Consumer Grade",
+    "skin": "Bleached",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "2021 Dust II Collection",
+    "quality": "Consumer Grade",
+    "skin": "Prey",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "2021 Dust II Collection",
+    "quality": "Consumer Grade",
+    "skin": "Parched",
+    "weapon": "Sawed-Off"
+  },
+  {
+    "collection": "2021 Dust II Collection",
+    "quality": "Industrial Grade",
+    "skin": "Spalted Wood",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "2021 Dust II Collection",
+    "quality": "Industrial Grade",
+    "skin": "Old Roots",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "2021 Dust II Collection",
+    "quality": "Industrial Grade",
+    "skin": "Withered Vine",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "2021 Dust II Collection",
+    "quality": "Industrial Grade",
+    "skin": "Midnight Palm",
+    "weapon": "M249"
+  },
+  {
+    "collection": "2021 Dust II Collection",
+    "quality": "Mil-Spec",
+    "skin": "Black &amp; Tan",
+    "weapon": "P250"
+  },
+  {
+    "collection": "2021 Dust II Collection",
+    "quality": "Mil-Spec",
+    "skin": "Quick Sand",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "2021 Dust II Collection",
+    "quality": "Mil-Spec",
+    "skin": "New Roots",
+    "weapon": "G3SG1"
+  },
+  {
+    "collection": "2021 Dust II Collection",
+    "quality": "Mil-Spec",
+    "skin": "Amber Fade",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "2021 Dust II Collection",
+    "quality": "Restricted",
+    "skin": "Orange Anolis",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "2021 Dust II Collection",
+    "quality": "Restricted",
+    "skin": "Red DDPAT",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "2021 Dust II Collection",
+    "quality": "Restricted",
+    "skin": "Case Hardened",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "2021 Dust II Collection",
+    "quality": "Classified",
+    "skin": "Fade",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "2021 Dust II Collection",
+    "quality": "Classified",
+    "skin": "Death Strike",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "2021 Dust II Collection",
+    "quality": "Covert",
+    "skin": "Gold Arabesque",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "2021 Mirage Collection",
+    "quality": "Consumer Grade",
+    "skin": "Drought",
+    "weapon": "P250"
+  },
+  {
+    "collection": "2021 Mirage Collection",
+    "quality": "Consumer Grade",
+    "skin": "Anolis",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "2021 Mirage Collection",
+    "quality": "Consumer Grade",
+    "skin": "Navy Sheen",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "2021 Mirage Collection",
+    "quality": "Consumer Grade",
+    "skin": "Sienna Damask",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "2021 Mirage Collection",
+    "quality": "Consumer Grade",
+    "skin": "Prey",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "2021 Mirage Collection",
+    "quality": "Industrial Grade",
+    "skin": "Drift Wood",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "2021 Mirage Collection",
+    "quality": "Industrial Grade",
+    "skin": "CaliCamo",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "2021 Mirage Collection",
+    "quality": "Industrial Grade",
+    "skin": "Midnight Palm",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "2021 Mirage Collection",
+    "quality": "Industrial Grade",
+    "skin": "Verdant Growth",
+    "weapon": "P90"
+  },
+  {
+    "collection": "2021 Mirage Collection",
+    "quality": "Mil-Spec",
+    "skin": "Purple DDPAT",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "2021 Mirage Collection",
+    "quality": "Mil-Spec",
+    "skin": "Music Box",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "2021 Mirage Collection",
+    "quality": "Mil-Spec",
+    "skin": "Humidor",
+    "weapon": "M249"
+  },
+  {
+    "collection": "2021 Mirage Collection",
+    "quality": "Mil-Spec",
+    "skin": "Desert Blossom",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "2021 Mirage Collection",
+    "quality": "Restricted",
+    "skin": "Elegant Vines",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "2021 Mirage Collection",
+    "quality": "Restricted",
+    "skin": "Pink DDPAT",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "2021 Mirage Collection",
+    "quality": "Restricted",
+    "skin": "Sand Storm",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "2021 Mirage Collection",
+    "quality": "Classified",
+    "skin": "Oxide Oasis",
+    "weapon": "MP5-SD"
+  },
+  {
+    "collection": "2021 Mirage Collection",
+    "quality": "Classified",
+    "skin": "Fennec Fox",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "2021 Mirage Collection",
+    "quality": "Covert",
+    "skin": "Desert Hydra",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "2021 Train Collection",
+    "quality": "Mil-Spec",
+    "skin": "Sputnik",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "2021 Train Collection",
+    "quality": "Mil-Spec",
+    "skin": "Fizzy POP",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "2021 Train Collection",
+    "quality": "Mil-Spec",
+    "skin": "Spring Twilly",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "2021 Train Collection",
+    "quality": "Mil-Spec",
+    "skin": "Amber Fade",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "2021 Train Collection",
+    "quality": "Mil-Spec",
+    "skin": "Full Stop",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "2021 Train Collection",
+    "quality": "Mil-Spec",
+    "skin": "Safety Net",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "2021 Train Collection",
+    "quality": "Mil-Spec",
+    "skin": "Blaze",
+    "weapon": "R8 Revolver"
+  },
+  {
+    "collection": "2021 Train Collection",
+    "quality": "Restricted",
+    "skin": "Syndicate",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "2021 Train Collection",
+    "quality": "Restricted",
+    "skin": "POP AWP",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "2021 Train Collection",
+    "quality": "Restricted",
+    "skin": "Space Race",
+    "weapon": "P2000"
+  },
+  {
+    "collection": "2021 Train Collection",
+    "quality": "Restricted",
+    "skin": "Autumn Twilly",
+    "weapon": "MP5-SD"
+  },
+  {
+    "collection": "2021 Train Collection",
+    "quality": "Restricted",
+    "skin": "Red Quartz",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "2021 Train Collection",
+    "quality": "Classified",
+    "skin": "Whiteout",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "2021 Train Collection",
+    "quality": "Classified",
+    "skin": "Propaganda",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "2021 Train Collection",
+    "quality": "Classified",
+    "skin": "Meltdown",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "2021 Train Collection",
+    "quality": "Covert",
+    "skin": "The Coalition",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "2021 Train Collection",
+    "quality": "Covert",
+    "skin": "Gamma Doppler",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "2021 Vertigo Collection",
+    "quality": "Consumer Grade",
+    "skin": "Strats",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "2021 Vertigo Collection",
+    "quality": "Consumer Grade",
+    "skin": "Faulty Wiring",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "2021 Vertigo Collection",
+    "quality": "Consumer Grade",
+    "skin": "Blue Tire",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "2021 Vertigo Collection",
+    "quality": "Consumer Grade",
+    "skin": "Framework",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "2021 Vertigo Collection",
+    "quality": "Consumer Grade",
+    "skin": "Oil Change",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "2021 Vertigo Collection",
+    "quality": "Industrial Grade",
+    "skin": "Red Tire",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "2021 Vertigo Collection",
+    "quality": "Industrial Grade",
+    "skin": "Mechanism",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "2021 Vertigo Collection",
+    "quality": "Industrial Grade",
+    "skin": "Carbon Fiber",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "2021 Vertigo Collection",
+    "quality": "Industrial Grade",
+    "skin": "Breaker Box",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "2021 Vertigo Collection",
+    "quality": "Mil-Spec",
+    "skin": "Green Laminate",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "2021 Vertigo Collection",
+    "quality": "Mil-Spec",
+    "skin": "Schematic",
+    "weapon": "P90"
+  },
+  {
+    "collection": "2021 Vertigo Collection",
+    "quality": "Mil-Spec",
+    "skin": "Interlock",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "2021 Vertigo Collection",
+    "quality": "Mil-Spec",
+    "skin": "Infrastructure",
+    "weapon": "Negev"
+  },
+  {
+    "collection": "2021 Vertigo Collection",
+    "quality": "Restricted",
+    "skin": "CAUTION!",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "2021 Vertigo Collection",
+    "quality": "Restricted",
+    "skin": "Prism Terrace",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "2021 Vertigo Collection",
+    "quality": "Restricted",
+    "skin": "Digital Architect",
+    "weapon": "P250"
+  },
+  {
+    "collection": "2021 Vertigo Collection",
+    "quality": "Classified",
+    "skin": "Fall Hazard",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "2021 Vertigo Collection",
+    "quality": "Classified",
+    "skin": "Hazard Pay",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "2021 Vertigo Collection",
+    "quality": "Covert",
+    "skin": "Imminent Danger",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "Chop Shop Collection",
+    "quality": "Consumer Grade",
+    "skin": "Army Sheen",
+    "weapon": "SCAR-20"
+  },
+  {
+    "collection": "Chop Shop Collection",
+    "quality": "Consumer Grade",
+    "skin": "Army Sheen",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "Chop Shop Collection",
+    "quality": "Consumer Grade",
+    "skin": "Impact Drill",
+    "weapon": "M249"
+  },
+  {
+    "collection": "Chop Shop Collection",
+    "quality": "Consumer Grade",
+    "skin": "Seabird",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "Chop Shop Collection",
+    "quality": "Industrial Grade",
+    "skin": "Night",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "Chop Shop Collection",
+    "quality": "Industrial Grade",
+    "skin": "Urban Rubble",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "Chop Shop Collection",
+    "quality": "Industrial Grade",
+    "skin": "Para Green",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "Chop Shop Collection",
+    "quality": "Mil-Spec",
+    "skin": "Fade",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Chop Shop Collection",
+    "quality": "Mil-Spec",
+    "skin": "Whiteout",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Chop Shop Collection",
+    "quality": "Mil-Spec",
+    "skin": "Full Stop",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "Chop Shop Collection",
+    "quality": "Mil-Spec",
+    "skin": "Nitro",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "Chop Shop Collection",
+    "quality": "Mil-Spec",
+    "skin": "Emerald",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "Chop Shop Collection",
+    "quality": "Restricted",
+    "skin": "Bulldozer",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "Chop Shop Collection",
+    "quality": "Restricted",
+    "skin": "Duelist",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "Chop Shop Collection",
+    "quality": "Classified",
+    "skin": "Twilight Galaxy",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "Chop Shop Collection",
+    "quality": "Classified",
+    "skin": "Hot Rod",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "Gods and Monsters Collection",
+    "quality": "Consumer Grade",
+    "skin": "Asterion",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "Gods and Monsters Collection",
+    "quality": "Consumer Grade",
+    "skin": "Daedalus",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "Gods and Monsters Collection",
+    "quality": "Consumer Grade",
+    "skin": "Moon in Libra",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "Gods and Monsters Collection",
+    "quality": "Consumer Grade",
+    "skin": "Moon in Libra",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "Gods and Monsters Collection",
+    "quality": "Industrial Grade",
+    "skin": "Hades",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Gods and Monsters Collection",
+    "quality": "Industrial Grade",
+    "skin": "Pathfinder",
+    "weapon": "P2000"
+  },
+  {
+    "collection": "Gods and Monsters Collection",
+    "quality": "Industrial Grade",
+    "skin": "Sun in Leo",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Gods and Monsters Collection",
+    "quality": "Industrial Grade",
+    "skin": "Shipping Forecast",
+    "weapon": "M249"
+  },
+  {
+    "collection": "Gods and Monsters Collection",
+    "quality": "Mil-Spec",
+    "skin": "Minotaur's Labyrinth",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "Gods and Monsters Collection",
+    "quality": "Mil-Spec",
+    "skin": "Pandora's Box",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "Gods and Monsters Collection",
+    "quality": "Restricted",
+    "skin": "Chronos",
+    "weapon": "G3SG1"
+  },
+  {
+    "collection": "Gods and Monsters Collection",
+    "quality": "Restricted",
+    "skin": "Icarus Fell",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "Gods and Monsters Collection",
+    "quality": "Classified",
+    "skin": "Poseidon",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "Gods and Monsters Collection",
+    "quality": "Covert",
+    "skin": "Medusa",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Rising Sun Collection",
+    "quality": "Consumer Grade",
+    "skin": "Bamboo Print",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "Rising Sun Collection",
+    "quality": "Consumer Grade",
+    "skin": "Bamboo Shadow",
+    "weapon": "Sawed-Off"
+  },
+  {
+    "collection": "Rising Sun Collection",
+    "quality": "Consumer Grade",
+    "skin": "Bamboo Forest",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Rising Sun Collection",
+    "quality": "Consumer Grade",
+    "skin": "Orange Kimono",
+    "weapon": "G3SG1"
+  },
+  {
+    "collection": "Rising Sun Collection",
+    "quality": "Consumer Grade",
+    "skin": "Mint Kimono",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Rising Sun Collection",
+    "quality": "Industrial Grade",
+    "skin": "Crimson Kimono",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Rising Sun Collection",
+    "quality": "Industrial Grade",
+    "skin": "Midnight Storm",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "Rising Sun Collection",
+    "quality": "Mil-Spec",
+    "skin": "Aqua Terrace",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "Rising Sun Collection",
+    "quality": "Mil-Spec",
+    "skin": "Counter Terrace",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "Rising Sun Collection",
+    "quality": "Mil-Spec",
+    "skin": "Terrace",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Rising Sun Collection",
+    "quality": "Restricted",
+    "skin": "Neon Kimono",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "Rising Sun Collection",
+    "quality": "Restricted",
+    "skin": "Sunset Storm 壱",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "Rising Sun Collection",
+    "quality": "Restricted",
+    "skin": "Sunset Storm 弐",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "Rising Sun Collection",
+    "quality": "Restricted",
+    "skin": "Daybreak",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "Rising Sun Collection",
+    "quality": "Classified",
+    "skin": "Hydroponic",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Rising Sun Collection",
+    "quality": "Covert",
+    "skin": "Akihabara Accept",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "Alpha Collection",
+    "quality": "Consumer Grade",
+    "skin": "Jungle DDPAT",
+    "weapon": "M249"
+  },
+  {
+    "collection": "Alpha Collection",
+    "quality": "Consumer Grade",
+    "skin": "Tornado",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Alpha Collection",
+    "quality": "Consumer Grade",
+    "skin": "Dry Season",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "Alpha Collection",
+    "quality": "Consumer Grade",
+    "skin": "Anodized Gunmetal",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "Alpha Collection",
+    "quality": "Consumer Grade",
+    "skin": "Jungle",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "Alpha Collection",
+    "quality": "Consumer Grade",
+    "skin": "Groundwater",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "Alpha Collection",
+    "quality": "Industrial Grade",
+    "skin": "Sand Dune",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "Alpha Collection",
+    "quality": "Industrial Grade",
+    "skin": "Mayan Dreams",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "Alpha Collection",
+    "quality": "Industrial Grade",
+    "skin": "Palm",
+    "weapon": "Negev"
+  },
+  {
+    "collection": "Alpha Collection",
+    "quality": "Industrial Grade",
+    "skin": "Mosaico",
+    "weapon": "Sawed-Off"
+  },
+  {
+    "collection": "Alpha Collection",
+    "quality": "Industrial Grade",
+    "skin": "Facets",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Alpha Collection",
+    "quality": "Mil-Spec",
+    "skin": "Anodized Navy",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "Alpha Collection",
+    "quality": "Mil-Spec",
+    "skin": "Hazard",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "Alpha Collection",
+    "quality": "Mil-Spec",
+    "skin": "Rust Coat",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "Alpha Collection",
+    "quality": "Restricted",
+    "skin": "Spitfire",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "Alpha Collection",
+    "quality": "Restricted",
+    "skin": "Emerald",
+    "weapon": "SCAR-20"
+  },
+  {
+    "collection": "Norse Collection",
+    "quality": "Consumer Grade",
+    "skin": "Barricade",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "Norse Collection",
+    "quality": "Consumer Grade",
+    "skin": "Night Borre",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "Norse Collection",
+    "quality": "Consumer Grade",
+    "skin": "Scorched",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "Norse Collection",
+    "quality": "Consumer Grade",
+    "skin": "Tornado",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "Norse Collection",
+    "quality": "Consumer Grade",
+    "skin": "Red Stone",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "Norse Collection",
+    "quality": "Industrial Grade",
+    "skin": "Chainmail",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "Norse Collection",
+    "quality": "Industrial Grade",
+    "skin": "Moss Quartz",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "Norse Collection",
+    "quality": "Industrial Grade",
+    "skin": "Pathfinder",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "Norse Collection",
+    "quality": "Industrial Grade",
+    "skin": "Pyre",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "Norse Collection",
+    "quality": "Mil-Spec",
+    "skin": "Brass",
+    "weapon": "SCAR-20"
+  },
+  {
+    "collection": "Norse Collection",
+    "quality": "Mil-Spec",
+    "skin": "Emerald Quartz",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "Norse Collection",
+    "quality": "Mil-Spec",
+    "skin": "Copper Borre",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Norse Collection",
+    "quality": "Mil-Spec",
+    "skin": "Frost Borre",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "Norse Collection",
+    "quality": "Restricted",
+    "skin": "Astral Jörmungandr",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Norse Collection",
+    "quality": "Restricted",
+    "skin": "Flame Jörmungandr",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "Norse Collection",
+    "quality": "Restricted",
+    "skin": "Emerald Jörmungandr",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "Norse Collection",
+    "quality": "Classified",
+    "skin": "Mjölnir",
+    "weapon": "Negev"
+  },
+  {
+    "collection": "Norse Collection",
+    "quality": "Covert",
+    "skin": "Gungnir",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Control Collection",
+    "quality": "Consumer Grade",
+    "skin": "Surveillance",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "Control Collection",
+    "quality": "Consumer Grade",
+    "skin": "Charter",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "Control Collection",
+    "quality": "Consumer Grade",
+    "skin": "Army Sheen",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "Control Collection",
+    "quality": "Consumer Grade",
+    "skin": "Forest Night",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Control Collection",
+    "quality": "Consumer Grade",
+    "skin": "Jungle Dashed",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "Control Collection",
+    "quality": "Industrial Grade",
+    "skin": "Switch Board",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "Control Collection",
+    "quality": "Industrial Grade",
+    "skin": "The Bronze",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "Control Collection",
+    "quality": "Industrial Grade",
+    "skin": "Carbon Fiber",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "Control Collection",
+    "quality": "Industrial Grade",
+    "skin": "Nitro",
+    "weapon": "MP5-SD"
+  },
+  {
+    "collection": "Control Collection",
+    "quality": "Mil-Spec",
+    "skin": "Magna Carta",
+    "weapon": "SCAR-20"
+  },
+  {
+    "collection": "Control Collection",
+    "quality": "Mil-Spec",
+    "skin": "Dispatch",
+    "weapon": "P2000"
+  },
+  {
+    "collection": "Control Collection",
+    "quality": "Mil-Spec",
+    "skin": "Threat Detected",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "Control Collection",
+    "quality": "Mil-Spec",
+    "skin": "Global Offensive",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "Control Collection",
+    "quality": "Restricted",
+    "skin": "Prime Conspiracy",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "Control Collection",
+    "quality": "Restricted",
+    "skin": "Crime Scene",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "Control Collection",
+    "quality": "Restricted",
+    "skin": "Berries And Cherries",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "Control Collection",
+    "quality": "Classified",
+    "skin": "Target Acquired",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "Control Collection",
+    "quality": "Classified",
+    "skin": "Blue Phosphor",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "Control Collection",
+    "quality": "Covert",
+    "skin": "Fade",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Havoc Collection",
+    "quality": "Consumer Grade",
+    "skin": "Death Rattle",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "Havoc Collection",
+    "quality": "Consumer Grade",
+    "skin": "Heist",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "Havoc Collection",
+    "quality": "Consumer Grade",
+    "skin": "Clay Ambush",
+    "weapon": "Sawed-Off"
+  },
+  {
+    "collection": "Havoc Collection",
+    "quality": "Consumer Grade",
+    "skin": "Predator",
+    "weapon": "M249"
+  },
+  {
+    "collection": "Havoc Collection",
+    "quality": "Consumer Grade",
+    "skin": "Phoenix Chalk",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Havoc Collection",
+    "quality": "Industrial Grade",
+    "skin": "Vault Heist",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "Havoc Collection",
+    "quality": "Industrial Grade",
+    "skin": "Phoenix Marker",
+    "weapon": "R8 Revolver"
+  },
+  {
+    "collection": "Havoc Collection",
+    "quality": "Industrial Grade",
+    "skin": "Houndstooth",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "Havoc Collection",
+    "quality": "Industrial Grade",
+    "skin": "Rust Coat",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "Havoc Collection",
+    "quality": "Mil-Spec",
+    "skin": "Tiger Pit",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Havoc Collection",
+    "quality": "Mil-Spec",
+    "skin": "Phoenix Stencil",
+    "weapon": "Negev"
+  },
+  {
+    "collection": "Havoc Collection",
+    "quality": "Mil-Spec",
+    "skin": "Night Heist",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "Havoc Collection",
+    "quality": "Mil-Spec",
+    "skin": "Bengal Tiger",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Havoc Collection",
+    "quality": "Restricted",
+    "skin": "Franklin",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "Havoc Collection",
+    "quality": "Restricted",
+    "skin": "Phoenix Blacklight",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "Havoc Collection",
+    "quality": "Restricted",
+    "skin": "Hypnotic",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "Havoc Collection",
+    "quality": "Classified",
+    "skin": "Hot Snakes",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Havoc Collection",
+    "quality": "Classified",
+    "skin": "Silk Tiger",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Havoc Collection",
+    "quality": "Covert",
+    "skin": "X-Ray",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "CS:GO Weapon Case",
+    "quality": "Mil-Spec",
+    "skin": "Skulls",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "CS:GO Weapon Case",
+    "quality": "Mil-Spec",
+    "skin": "Ultraviolet",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "CS:GO Weapon Case",
+    "quality": "Mil-Spec",
+    "skin": "Wings",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "CS:GO Weapon Case",
+    "quality": "Restricted",
+    "skin": "Dark Water",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "CS:GO Weapon Case",
+    "quality": "Restricted",
+    "skin": "Dark Water",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "CS:GO Weapon Case",
+    "quality": "Restricted",
+    "skin": "Dragon Tattoo",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "CS:GO Weapon Case",
+    "quality": "Classified",
+    "skin": "Hypnotic",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "CS:GO Weapon Case",
+    "quality": "Classified",
+    "skin": "Case Hardened",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "CS:GO Weapon Case",
+    "quality": "Covert",
+    "skin": "Lightning Strike",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "eSports 2013 Case",
+    "quality": "Mil-Spec",
+    "skin": "Faded Zebra",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "eSports 2013 Case",
+    "quality": "Mil-Spec",
+    "skin": "Doomkitty",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "eSports 2013 Case",
+    "quality": "Mil-Spec",
+    "skin": "Memento",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "eSports 2013 Case",
+    "quality": "Restricted",
+    "skin": "Orange DDPAT",
+    "weapon": "Sawed-Off"
+  },
+  {
+    "collection": "eSports 2013 Case",
+    "quality": "Restricted",
+    "skin": "Splash",
+    "weapon": "P250"
+  },
+  {
+    "collection": "eSports 2013 Case",
+    "quality": "Restricted",
+    "skin": "Orange DDPAT",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "eSports 2013 Case",
+    "quality": "Classified",
+    "skin": "Red Laminate",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "eSports 2013 Case",
+    "quality": "Classified",
+    "skin": "BOOM",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "eSports 2013 Case",
+    "quality": "Covert",
+    "skin": "Death by Kitty",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Operation Bravo Case",
+    "quality": "Mil-Spec",
+    "skin": "Tempest",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "Operation Bravo Case",
+    "quality": "Mil-Spec",
+    "skin": "Black Limba",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "Operation Bravo Case",
+    "quality": "Mil-Spec",
+    "skin": "Bone Pile",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "Operation Bravo Case",
+    "quality": "Mil-Spec",
+    "skin": "Wave Spray",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "Operation Bravo Case",
+    "quality": "Mil-Spec",
+    "skin": "Shattered",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "Operation Bravo Case",
+    "quality": "Mil-Spec",
+    "skin": "Demeter",
+    "weapon": "G3SG1"
+  },
+  {
+    "collection": "Operation Bravo Case",
+    "quality": "Restricted",
+    "skin": "Bright Water",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "Operation Bravo Case",
+    "quality": "Restricted",
+    "skin": "Zirka",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "Operation Bravo Case",
+    "quality": "Restricted",
+    "skin": "Graven",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Operation Bravo Case",
+    "quality": "Restricted",
+    "skin": "Overgrowth",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "Operation Bravo Case",
+    "quality": "Classified",
+    "skin": "Emerald Dragon",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Operation Bravo Case",
+    "quality": "Classified",
+    "skin": "Ocean Foam",
+    "weapon": "P2000"
+  },
+  {
+    "collection": "Operation Bravo Case",
+    "quality": "Classified",
+    "skin": "Graphite",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Operation Bravo Case",
+    "quality": "Covert",
+    "skin": "Golden Koi",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "Operation Bravo Case",
+    "quality": "Covert",
+    "skin": "Fire Serpent",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "CS:GO Weapon Case 2",
+    "quality": "Mil-Spec",
+    "skin": "Blue Titanium",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "CS:GO Weapon Case 2",
+    "quality": "Mil-Spec",
+    "skin": "Blood Tiger",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "CS:GO Weapon Case 2",
+    "quality": "Mil-Spec",
+    "skin": "Hexane",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "CS:GO Weapon Case 2",
+    "quality": "Mil-Spec",
+    "skin": "Hive",
+    "weapon": "P250"
+  },
+  {
+    "collection": "CS:GO Weapon Case 2",
+    "quality": "Mil-Spec",
+    "skin": "Crimson Web",
+    "weapon": "SCAR-20"
+  },
+  {
+    "collection": "CS:GO Weapon Case 2",
+    "quality": "Restricted",
+    "skin": "Case Hardened",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "CS:GO Weapon Case 2",
+    "quality": "Restricted",
+    "skin": "Hypnotic",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "CS:GO Weapon Case 2",
+    "quality": "Restricted",
+    "skin": "Graphite",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "CS:GO Weapon Case 2",
+    "quality": "Restricted",
+    "skin": "Hemoglobin",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "CS:GO Weapon Case 2",
+    "quality": "Classified",
+    "skin": "Cold Blooded",
+    "weapon": "P90"
+  },
+  {
+    "collection": "CS:GO Weapon Case 2",
+    "quality": "Classified",
+    "skin": "Serum",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "CS:GO Weapon Case 2",
+    "quality": "Covert",
+    "skin": "Blood in the Water",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "Winter Offensive Weapon Case",
+    "quality": "Mil-Spec",
+    "skin": "Cobalt Halftone",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "Winter Offensive Weapon Case",
+    "quality": "Mil-Spec",
+    "skin": "Magma",
+    "weapon": "M249"
+  },
+  {
+    "collection": "Winter Offensive Weapon Case",
+    "quality": "Mil-Spec",
+    "skin": "Kami",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "Winter Offensive Weapon Case",
+    "quality": "Mil-Spec",
+    "skin": "Sandstorm",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "Winter Offensive Weapon Case",
+    "quality": "Restricted",
+    "skin": "Rising Skull",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "Winter Offensive Weapon Case",
+    "quality": "Restricted",
+    "skin": "Rose Iron",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "Winter Offensive Weapon Case",
+    "quality": "Restricted",
+    "skin": "Marina",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "Winter Offensive Weapon Case",
+    "quality": "Restricted",
+    "skin": "Pulse",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "Winter Offensive Weapon Case",
+    "quality": "Classified",
+    "skin": "Redline",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Winter Offensive Weapon Case",
+    "quality": "Classified",
+    "skin": "Mehndi",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Winter Offensive Weapon Case",
+    "quality": "Classified",
+    "skin": "Guardian",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "Winter Offensive Weapon Case",
+    "quality": "Covert",
+    "skin": "The Kraken",
+    "weapon": "Sawed-Off"
+  },
+  {
+    "collection": "Winter Offensive Weapon Case",
+    "quality": "Covert",
+    "skin": "Asiimov",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "eSports 2013 Winter Case",
+    "quality": "Mil-Spec",
+    "skin": "Blue Titanium",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "eSports 2013 Winter Case",
+    "quality": "Mil-Spec",
+    "skin": "Nightshade",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "eSports 2013 Winter Case",
+    "quality": "Mil-Spec",
+    "skin": "Water Sigil",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "eSports 2013 Winter Case",
+    "quality": "Mil-Spec",
+    "skin": "Ghost Camo",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "eSports 2013 Winter Case",
+    "quality": "Mil-Spec",
+    "skin": "Azure Zebra",
+    "weapon": "G3SG1"
+  },
+  {
+    "collection": "eSports 2013 Winter Case",
+    "quality": "Mil-Spec",
+    "skin": "Steel Disruption",
+    "weapon": "P250"
+  },
+  {
+    "collection": "eSports 2013 Winter Case",
+    "quality": "Restricted",
+    "skin": "Blue Laminate",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "eSports 2013 Winter Case",
+    "quality": "Restricted",
+    "skin": "Blind Spot",
+    "weapon": "P90"
+  },
+  {
+    "collection": "eSports 2013 Winter Case",
+    "quality": "Classified",
+    "skin": "Afterimage",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "eSports 2013 Winter Case",
+    "quality": "Classified",
+    "skin": "Electric Hive",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "eSports 2013 Winter Case",
+    "quality": "Classified",
+    "skin": "Cobalt Disruption",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "eSports 2013 Winter Case",
+    "quality": "Covert",
+    "skin": "X-Ray",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "CS:GO Weapon Case 3",
+    "quality": "Mil-Spec",
+    "skin": "Crimson Web",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "CS:GO Weapon Case 3",
+    "quality": "Mil-Spec",
+    "skin": "Red FragCam",
+    "weapon": "P2000"
+  },
+  {
+    "collection": "CS:GO Weapon Case 3",
+    "quality": "Mil-Spec",
+    "skin": "Panther",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "CS:GO Weapon Case 3",
+    "quality": "Mil-Spec",
+    "skin": "Stainless",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "CS:GO Weapon Case 3",
+    "quality": "Mil-Spec",
+    "skin": "Blue Fissure",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "CS:GO Weapon Case 3",
+    "quality": "Restricted",
+    "skin": "Tread Plate",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "CS:GO Weapon Case 3",
+    "quality": "Restricted",
+    "skin": "Titanium Bit",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "CS:GO Weapon Case 3",
+    "quality": "Restricted",
+    "skin": "Heirloom",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "CS:GO Weapon Case 3",
+    "quality": "Restricted",
+    "skin": "Copper Galaxy",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "CS:GO Weapon Case 3",
+    "quality": "Classified",
+    "skin": "The Fuschia Is Now",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "CS:GO Weapon Case 3",
+    "quality": "Classified",
+    "skin": "Undertow",
+    "weapon": "P250"
+  },
+  {
+    "collection": "CS:GO Weapon Case 3",
+    "quality": "Covert",
+    "skin": "Victoria",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "Operation Phoenix Weapon Case",
+    "quality": "Mil-Spec",
+    "skin": "Corporal",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "Operation Phoenix Weapon Case",
+    "quality": "Mil-Spec",
+    "skin": "Terrain",
+    "weapon": "Negev"
+  },
+  {
+    "collection": "Operation Phoenix Weapon Case",
+    "quality": "Mil-Spec",
+    "skin": "Sandstorm",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Operation Phoenix Weapon Case",
+    "quality": "Mil-Spec",
+    "skin": "Heaven Guard",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "Operation Phoenix Weapon Case",
+    "quality": "Restricted",
+    "skin": "Heat",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Operation Phoenix Weapon Case",
+    "quality": "Restricted",
+    "skin": "Pulse",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "Operation Phoenix Weapon Case",
+    "quality": "Restricted",
+    "skin": "Sergeant",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "Operation Phoenix Weapon Case",
+    "quality": "Restricted",
+    "skin": "Guardian",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "Operation Phoenix Weapon Case",
+    "quality": "Classified",
+    "skin": "Redline",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Operation Phoenix Weapon Case",
+    "quality": "Classified",
+    "skin": "Trigon",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Operation Phoenix Weapon Case",
+    "quality": "Classified",
+    "skin": "Antique",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "Operation Phoenix Weapon Case",
+    "quality": "Covert",
+    "skin": "Asiimov",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Operation Phoenix Weapon Case",
+    "quality": "Covert",
+    "skin": "Chameleon",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "Huntsman Weapon Case",
+    "quality": "Mil-Spec",
+    "skin": "Isaac",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Huntsman Weapon Case",
+    "quality": "Mil-Spec",
+    "skin": "Slashed",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "Huntsman Weapon Case",
+    "quality": "Mil-Spec",
+    "skin": "Retribution",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "Huntsman Weapon Case",
+    "quality": "Mil-Spec",
+    "skin": "Kami",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "Huntsman Weapon Case",
+    "quality": "Mil-Spec",
+    "skin": "Desert Warfare",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Huntsman Weapon Case",
+    "quality": "Mil-Spec",
+    "skin": "Poison Dart",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "Huntsman Weapon Case",
+    "quality": "Mil-Spec",
+    "skin": "Twist",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "Huntsman Weapon Case",
+    "quality": "Mil-Spec",
+    "skin": "Module",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Huntsman Weapon Case",
+    "quality": "Mil-Spec",
+    "skin": "Pulse",
+    "weapon": "P2000"
+  },
+  {
+    "collection": "Huntsman Weapon Case",
+    "quality": "Restricted",
+    "skin": "Torque",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "Huntsman Weapon Case",
+    "quality": "Restricted",
+    "skin": "Antique",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "Huntsman Weapon Case",
+    "quality": "Restricted",
+    "skin": "Heaven Guard",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "Huntsman Weapon Case",
+    "quality": "Restricted",
+    "skin": "Curse",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Huntsman Weapon Case",
+    "quality": "Restricted",
+    "skin": "Tatter",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Huntsman Weapon Case",
+    "quality": "Classified",
+    "skin": "Atomic Alloy",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "Huntsman Weapon Case",
+    "quality": "Classified",
+    "skin": "Cyrex",
+    "weapon": "SCAR-20"
+  },
+  {
+    "collection": "Huntsman Weapon Case",
+    "quality": "Classified",
+    "skin": "Orion",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "Huntsman Weapon Case",
+    "quality": "Classified",
+    "skin": "Caiman",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "Huntsman Weapon Case",
+    "quality": "Covert",
+    "skin": "Vulcan",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Huntsman Weapon Case",
+    "quality": "Covert",
+    "skin": "Desert-Strike",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "Huntsman Weapon Case",
+    "quality": "Contraband",
+    "skin": "Howl",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "Operation Breakout Weapon Case",
+    "quality": "Mil-Spec",
+    "skin": "Urban Hazard",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "Operation Breakout Weapon Case",
+    "quality": "Mil-Spec",
+    "skin": "Desert-Strike",
+    "weapon": "Negev"
+  },
+  {
+    "collection": "Operation Breakout Weapon Case",
+    "quality": "Mil-Spec",
+    "skin": "Ivory",
+    "weapon": "P2000"
+  },
+  {
+    "collection": "Operation Breakout Weapon Case",
+    "quality": "Mil-Spec",
+    "skin": "Abyss",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "Operation Breakout Weapon Case",
+    "quality": "Mil-Spec",
+    "skin": "Labyrinth",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "Operation Breakout Weapon Case",
+    "quality": "Restricted",
+    "skin": "Osiris",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "Operation Breakout Weapon Case",
+    "quality": "Restricted",
+    "skin": "Tigris",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "Operation Breakout Weapon Case",
+    "quality": "Restricted",
+    "skin": "Koi",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "Operation Breakout Weapon Case",
+    "quality": "Restricted",
+    "skin": "Supernova",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Operation Breakout Weapon Case",
+    "quality": "Classified",
+    "skin": "Conspiracy",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "Operation Breakout Weapon Case",
+    "quality": "Classified",
+    "skin": "Fowl Play",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "Operation Breakout Weapon Case",
+    "quality": "Classified",
+    "skin": "Water Elemental",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "Operation Breakout Weapon Case",
+    "quality": "Covert",
+    "skin": "Asiimov",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Operation Breakout Weapon Case",
+    "quality": "Covert",
+    "skin": "Cyrex",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "eSports 2014 Summer Case",
+    "quality": "Mil-Spec",
+    "skin": "Dark Water",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "eSports 2014 Summer Case",
+    "quality": "Mil-Spec",
+    "skin": "Ultraviolet",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "eSports 2014 Summer Case",
+    "quality": "Mil-Spec",
+    "skin": "Blood Tiger",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "eSports 2014 Summer Case",
+    "quality": "Mil-Spec",
+    "skin": "Hexane",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "eSports 2014 Summer Case",
+    "quality": "Mil-Spec",
+    "skin": "Bratatat",
+    "weapon": "Negev"
+  },
+  {
+    "collection": "eSports 2014 Summer Case",
+    "quality": "Mil-Spec",
+    "skin": "Red Python",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "eSports 2014 Summer Case",
+    "quality": "Restricted",
+    "skin": "Blue Streak",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "eSports 2014 Summer Case",
+    "quality": "Restricted",
+    "skin": "Virus",
+    "weapon": "P90"
+  },
+  {
+    "collection": "eSports 2014 Summer Case",
+    "quality": "Restricted",
+    "skin": "Ocean Foam",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "eSports 2014 Summer Case",
+    "quality": "Restricted",
+    "skin": "Steel Disruption",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "eSports 2014 Summer Case",
+    "quality": "Restricted",
+    "skin": "Crimson Web",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "eSports 2014 Summer Case",
+    "quality": "Classified",
+    "skin": "Bengal Tiger",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "eSports 2014 Summer Case",
+    "quality": "Classified",
+    "skin": "Bloomstick",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "eSports 2014 Summer Case",
+    "quality": "Classified",
+    "skin": "Corticera",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "eSports 2014 Summer Case",
+    "quality": "Classified",
+    "skin": "Corticera",
+    "weapon": "P2000"
+  },
+  {
+    "collection": "eSports 2014 Summer Case",
+    "quality": "Covert",
+    "skin": "Bullet Rain",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "eSports 2014 Summer Case",
+    "quality": "Covert",
+    "skin": "Jaguar",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Operation Vanguard Weapon Case",
+    "quality": "Mil-Spec",
+    "skin": "Murky",
+    "weapon": "G3SG1"
+  },
+  {
+    "collection": "Operation Vanguard Weapon Case",
+    "quality": "Mil-Spec",
+    "skin": "Firestarter",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "Operation Vanguard Weapon Case",
+    "quality": "Mil-Spec",
+    "skin": "Dart",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "Operation Vanguard Weapon Case",
+    "quality": "Mil-Spec",
+    "skin": "Urban Hazard",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "Operation Vanguard Weapon Case",
+    "quality": "Mil-Spec",
+    "skin": "Delusion",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "Operation Vanguard Weapon Case",
+    "quality": "Restricted",
+    "skin": "Grinder",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "Operation Vanguard Weapon Case",
+    "quality": "Restricted",
+    "skin": "Basilisk",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "Operation Vanguard Weapon Case",
+    "quality": "Restricted",
+    "skin": "Griffin",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "Operation Vanguard Weapon Case",
+    "quality": "Restricted",
+    "skin": "Highwayman",
+    "weapon": "Sawed-Off"
+  },
+  {
+    "collection": "Operation Vanguard Weapon Case",
+    "quality": "Classified",
+    "skin": "Cartel",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Operation Vanguard Weapon Case",
+    "quality": "Classified",
+    "skin": "Cardiac",
+    "weapon": "SCAR-20"
+  },
+  {
+    "collection": "Operation Vanguard Weapon Case",
+    "quality": "Classified",
+    "skin": "Tranquility",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "Operation Vanguard Weapon Case",
+    "quality": "Covert",
+    "skin": "Wasteland Rebel",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Operation Vanguard Weapon Case",
+    "quality": "Covert",
+    "skin": "Fire Elemental",
+    "weapon": "P2000"
+  },
+  {
+    "collection": "Chroma Case",
+    "quality": "Mil-Spec",
+    "skin": "Catacombs",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "Chroma Case",
+    "quality": "Mil-Spec",
+    "skin": "System Lock",
+    "weapon": "M249"
+  },
+  {
+    "collection": "Chroma Case",
+    "quality": "Mil-Spec",
+    "skin": "Deadly Poison",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "Chroma Case",
+    "quality": "Mil-Spec",
+    "skin": "Grotto",
+    "weapon": "SCAR-20"
+  },
+  {
+    "collection": "Chroma Case",
+    "quality": "Mil-Spec",
+    "skin": "Quicksilver",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "Chroma Case",
+    "quality": "Restricted",
+    "skin": "Urban Shock",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "Chroma Case",
+    "quality": "Restricted",
+    "skin": "Naga",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "Chroma Case",
+    "quality": "Restricted",
+    "skin": "Malachite",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Chroma Case",
+    "quality": "Restricted",
+    "skin": "Serenity",
+    "weapon": "Sawed-Off"
+  },
+  {
+    "collection": "Chroma Case",
+    "quality": "Classified",
+    "skin": "Cartel",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Chroma Case",
+    "quality": "Classified",
+    "skin": "龍王 (Dragon King)",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "Chroma Case",
+    "quality": "Classified",
+    "skin": "Muertos",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Chroma Case",
+    "quality": "Covert",
+    "skin": "Man-o'-war",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Chroma Case",
+    "quality": "Covert",
+    "skin": "Chatterbox",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "Chroma 2 Case",
+    "quality": "Mil-Spec",
+    "skin": "Elite Build",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Chroma 2 Case",
+    "quality": "Mil-Spec",
+    "skin": "Armor Core",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "Chroma 2 Case",
+    "quality": "Mil-Spec",
+    "skin": "Bronze Deco",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "Chroma 2 Case",
+    "quality": "Mil-Spec",
+    "skin": "Valence",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Chroma 2 Case",
+    "quality": "Man-o'-war",
+    "skin": "Man-o'-war",
+    "weapon": "Negev"
+  },
+  {
+    "collection": "Chroma 2 Case",
+    "quality": "Mil-Spec",
+    "skin": "Origami",
+    "weapon": "Sawed-Off"
+  },
+  {
+    "collection": "Chroma 2 Case",
+    "quality": "Restricted",
+    "skin": "Worm God",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Chroma 2 Case",
+    "quality": "Restricted",
+    "skin": "Heat",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "Chroma 2 Case",
+    "quality": "Restricted",
+    "skin": "Pole Position",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "Chroma 2 Case",
+    "quality": "Restricted",
+    "skin": "Grand Prix",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "Chroma 2 Case",
+    "quality": "Classified",
+    "skin": "Monkey Business",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "Chroma 2 Case",
+    "quality": "Classified",
+    "skin": "Eco",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "Chroma 2 Case",
+    "quality": "Classified",
+    "skin": "Djinn",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "Chroma 2 Case",
+    "quality": "Covert",
+    "skin": "Hyper Beast",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "Chroma 2 Case",
+    "quality": "Covert",
+    "skin": "Neon Rider",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Falchion Case",
+    "quality": "Mil-Spec",
+    "skin": "Rocket Pop",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "Falchion Case",
+    "quality": "Mil-Spec",
+    "skin": "Bunsen Burner",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "Falchion Case",
+    "quality": "Mil-Spec",
+    "skin": "Ranger",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "Falchion Case",
+    "quality": "Mil-Spec",
+    "skin": "Elite Build",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Falchion Case",
+    "quality": "Mil-Spec",
+    "skin": "Riot",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "Falchion Case",
+    "quality": "Mil-Spec",
+    "skin": "Torque",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "Falchion Case",
+    "quality": "Restricted",
+    "skin": "Neural Net",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "Falchion Case",
+    "quality": "Restricted",
+    "skin": "Evil Daimyo",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "Falchion Case",
+    "quality": "Restricted",
+    "skin": "Ruby Poison Dart",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "Falchion Case",
+    "quality": "Restricted",
+    "skin": "Loudmouth",
+    "weapon": "Negev"
+  },
+  {
+    "collection": "Falchion Case",
+    "quality": "Restricted",
+    "skin": "Handgun",
+    "weapon": "P2000"
+  },
+  {
+    "collection": "Falchion Case",
+    "quality": "Classified",
+    "skin": "Yellow Jacket",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "Falchion Case",
+    "quality": "Classified",
+    "skin": "Nemesis",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "Falchion Case",
+    "quality": "Classified",
+    "skin": "Cyrex",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "Falchion Case",
+    "quality": "Covert",
+    "skin": "Aquamarine Revenge",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Falchion Case",
+    "quality": "Covert",
+    "skin": "Hyper Beast",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Shadow Case",
+    "quality": "Mil-Spec",
+    "skin": "Dualing Dragons",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "Shadow Case",
+    "quality": "Mil-Spec",
+    "skin": "Survivor Z",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "Shadow Case",
+    "quality": "Mil-Spec",
+    "skin": "Wraiths",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "Shadow Case",
+    "quality": "Mil-Spec",
+    "skin": "Rangeen",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Shadow Case",
+    "quality": "Mil-Spec",
+    "skin": "Cobalt Core",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "Shadow Case",
+    "quality": "Mil-Spec",
+    "skin": "Green Marine",
+    "weapon": "SCAR-20"
+  },
+  {
+    "collection": "Shadow Case",
+    "quality": "Mil-Spec",
+    "skin": "Scumbria",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "Shadow Case",
+    "quality": "Restricted",
+    "skin": "Stone Cold",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "Shadow Case",
+    "quality": "Restricted",
+    "skin": "Nebula Crusader",
+    "weapon": "M249"
+  },
+  {
+    "collection": "Shadow Case",
+    "quality": "Restricted",
+    "skin": "Special Delivery",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "Shadow Case",
+    "quality": "Restricted",
+    "skin": "Wingshot",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Shadow Case",
+    "quality": "Classified",
+    "skin": "Frontside Misty",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Shadow Case",
+    "quality": "Classified",
+    "skin": "Flux",
+    "weapon": "G3SG1"
+  },
+  {
+    "collection": "Shadow Case",
+    "quality": "Classified",
+    "skin": "Big Iron",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "Shadow Case",
+    "quality": "Covert",
+    "skin": "Golden Coil",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "Shadow Case",
+    "quality": "Covert",
+    "skin": "Kill Confirmed",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "Revolver Case",
+    "quality": "Mil-Spec",
+    "skin": "Crimson Web",
+    "weapon": "R8 Revolver"
+  },
+  {
+    "collection": "Revolver Case",
+    "quality": "Mil-Spec",
+    "skin": "Ricochet",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "Revolver Case",
+    "quality": "Mil-Spec",
+    "skin": "Corinthian",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "Revolver Case",
+    "quality": "Mil-Spec",
+    "skin": "Imperial",
+    "weapon": "P2000"
+  },
+  {
+    "collection": "Revolver Case",
+    "quality": "Mil-Spec",
+    "skin": "Yorick",
+    "weapon": "Sawed-Off"
+  },
+  {
+    "collection": "Revolver Case",
+    "quality": "Mil-Spec",
+    "skin": "Outbreak",
+    "weapon": "SCAR-20"
+  },
+  {
+    "collection": "Revolver Case",
+    "quality": "Restricted",
+    "skin": "Fuel Rod",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "Revolver Case",
+    "quality": "Restricted",
+    "skin": "Retrobution",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "Revolver Case",
+    "quality": "Restricted",
+    "skin": "Power Loader",
+    "weapon": "Negev"
+  },
+  {
+    "collection": "Revolver Case",
+    "quality": "Restricted",
+    "skin": "Tiger Moth",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "Revolver Case",
+    "quality": "Restricted",
+    "skin": "Avalanche",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Revolver Case",
+    "quality": "Restricted",
+    "skin": "Teclu Burner",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "Revolver Case",
+    "quality": "Classified",
+    "skin": "Point Disarray",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Revolver Case",
+    "quality": "Classified",
+    "skin": "The Executioner",
+    "weapon": "G3SG1"
+  },
+  {
+    "collection": "Revolver Case",
+    "quality": "Classified",
+    "skin": "Shapewood",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Revolver Case",
+    "quality": "Covert",
+    "skin": "Royal Paladin",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "Revolver Case",
+    "quality": "Covert",
+    "skin": "Fade",
+    "weapon": "R8 Revolver"
+  },
+  {
+    "collection": "Operation Wildfire Case",
+    "quality": "Mil-Spec",
+    "skin": "Photic Zone",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "Operation Wildfire Case",
+    "quality": "Mil-Spec",
+    "skin": "Cartel",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "Operation Wildfire Case",
+    "quality": "Mil-Spec",
+    "skin": "Lapis Gator",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Operation Wildfire Case",
+    "quality": "Mil-Spec",
+    "skin": "Necropos",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "Operation Wildfire Case",
+    "quality": "Mil-Spec",
+    "skin": "Jambiya",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Operation Wildfire Case",
+    "quality": "Mil-Spec",
+    "skin": "Lead Conduit",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "Operation Wildfire Case",
+    "quality": "Restricted",
+    "skin": "Valence",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "Operation Wildfire Case",
+    "quality": "Restricted",
+    "skin": "Triumvirate",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "Operation Wildfire Case",
+    "quality": "Restricted",
+    "skin": "Royal Legion",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "Operation Wildfire Case",
+    "quality": "Restricted",
+    "skin": "Praetorian",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "Operation Wildfire Case",
+    "quality": "Restricted",
+    "skin": "Impire",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "Operation Wildfire Case",
+    "quality": "Classified",
+    "skin": "Elite Build",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Operation Wildfire Case",
+    "quality": "Classified",
+    "skin": "Kumicho Dragon",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "Operation Wildfire Case",
+    "quality": "Classified",
+    "skin": "Hyper Beast",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "Operation Wildfire Case",
+    "quality": "Covert",
+    "skin": "The Battlestar",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "Operation Wildfire Case",
+    "quality": "Covert",
+    "skin": "Fuel Injector",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Chroma 3 Case",
+    "quality": "Mil-Spec",
+    "skin": "Ventilators",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "Chroma 3 Case",
+    "quality": "Mil-Spec",
+    "skin": "Orange Crash",
+    "weapon": "G3SG1"
+  },
+  {
+    "collection": "Chroma 3 Case",
+    "quality": "Mil-Spec",
+    "skin": "Spectre",
+    "weapon": "M249"
+  },
+  {
+    "collection": "Chroma 3 Case",
+    "quality": "Mil-Spec",
+    "skin": "Bioleak",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "Chroma 3 Case",
+    "quality": "Mil-Spec",
+    "skin": "Oceanic",
+    "weapon": "P2000"
+  },
+  {
+    "collection": "Chroma 3 Case",
+    "quality": "Mil-Spec",
+    "skin": "Atlas",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "Chroma 3 Case",
+    "quality": "Mil-Spec",
+    "skin": "Fubar",
+    "weapon": "Sawed-Off"
+  },
+  {
+    "collection": "Chroma 3 Case",
+    "quality": "Restricted",
+    "skin": "Firefight",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "Chroma 3 Case",
+    "quality": "Restricted",
+    "skin": "Red Astor",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "Chroma 3 Case",
+    "quality": "Restricted",
+    "skin": "Black Tie",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "Chroma 3 Case",
+    "quality": "Restricted",
+    "skin": "Ghost Crusader",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "Chroma 3 Case",
+    "quality": "Restricted",
+    "skin": "Re-Entry",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Chroma 3 Case",
+    "quality": "Classified",
+    "skin": "Primal Saber",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "Chroma 3 Case",
+    "quality": "Classified",
+    "skin": "Asiimov",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Chroma 3 Case",
+    "quality": "Classified",
+    "skin": "Fleet Flock",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "Chroma 3 Case",
+    "quality": "Covert",
+    "skin": "Chantico's Fire",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "Chroma 3 Case",
+    "quality": "Covert",
+    "skin": "Judgement of Anubis",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "Gamma Case",
+    "quality": "Mil-Spec",
+    "skin": "Violent Daimyo",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "Gamma Case",
+    "quality": "Mil-Spec",
+    "skin": "Carnivore",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Gamma Case",
+    "quality": "Mil-Spec",
+    "skin": "Exo",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "Gamma Case",
+    "quality": "Mil-Spec",
+    "skin": "Iron Clad",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Gamma Case",
+    "quality": "Mil-Spec",
+    "skin": "Harvester",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "Gamma Case",
+    "quality": "Mil-Spec",
+    "skin": "Aerial",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "Gamma Case",
+    "quality": "Mil-Spec",
+    "skin": "Ice Cap",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Gamma Case",
+    "quality": "Restricted",
+    "skin": "Aristocrat",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "Gamma Case",
+    "quality": "Restricted",
+    "skin": "Phobos",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Gamma Case",
+    "quality": "Restricted",
+    "skin": "Chopper",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Gamma Case",
+    "quality": "Restricted",
+    "skin": "Reboot",
+    "weapon": "R8 Revolver"
+  },
+  {
+    "collection": "Gamma Case",
+    "quality": "Restricted",
+    "skin": "Limelight",
+    "weapon": "Sawed-Off"
+  },
+  {
+    "collection": "Gamma Case",
+    "quality": "Classified",
+    "skin": "Desolate Space",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "Gamma Case",
+    "quality": "Classified",
+    "skin": "Imperial Dragon",
+    "weapon": "P2000"
+  },
+  {
+    "collection": "Gamma Case",
+    "quality": "Classified",
+    "skin": "Bloodsport",
+    "weapon": "SCAR-20"
+  },
+  {
+    "collection": "Gamma Case",
+    "quality": "Covert",
+    "skin": "Wasteland Rebel",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "Gamma Case",
+    "quality": "Covert",
+    "skin": "Mecha Industries",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "Gamma 2 Case",
+    "quality": "Mil-Spec",
+    "skin": "Slipstream",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "Gamma 2 Case",
+    "quality": "Mil-Spec",
+    "skin": "Briefing",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "Gamma 2 Case",
+    "quality": "Mil-Spec",
+    "skin": "Grim",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Gamma 2 Case",
+    "quality": "Mil-Spec",
+    "skin": "Dazzle",
+    "weapon": "Negev"
+  },
+  {
+    "collection": "Gamma 2 Case",
+    "quality": "Mil-Spec",
+    "skin": "Ventilator",
+    "weapon": "G3SG1"
+  },
+  {
+    "collection": "Gamma 2 Case",
+    "quality": "Mil-Spec",
+    "skin": "Scumbria",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "Gamma 2 Case",
+    "quality": "Mil-Spec",
+    "skin": "Imprint",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "Gamma 2 Case",
+    "quality": "Restricted",
+    "skin": "Triarch",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "Gamma 2 Case",
+    "quality": "Restricted",
+    "skin": "Powercore",
+    "weapon": "SCAR-20"
+  },
+  {
+    "collection": "Gamma 2 Case",
+    "quality": "Restricted",
+    "skin": "Petroglyph",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "Gamma 2 Case",
+    "quality": "Restricted",
+    "skin": "Weasel",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "Gamma 2 Case",
+    "quality": "Restricted",
+    "skin": "Directive",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "Gamma 2 Case",
+    "quality": "Classified",
+    "skin": "Fuel Injector",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Gamma 2 Case",
+    "quality": "Classified",
+    "skin": "Airlock",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "Gamma 2 Case",
+    "quality": "Classified",
+    "skin": "Syd Mead",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "Gamma 2 Case",
+    "quality": "Covert",
+    "skin": "Neon Revolution",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Gamma 2 Case",
+    "quality": "Covert",
+    "skin": "Roll Cage",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "Glove Case",
+    "quality": "Mil-Spec",
+    "skin": "Turf",
+    "weapon": "P2000"
+  },
+  {
+    "collection": "Glove Case",
+    "quality": "Mil-Spec",
+    "skin": "Sonar",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "Glove Case",
+    "quality": "Mil-Spec",
+    "skin": "Sand Scale",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "Glove Case",
+    "quality": "Mil-Spec",
+    "skin": "Black Sand",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "Glove Case",
+    "quality": "Mil-Spec",
+    "skin": "Cirrus",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "Glove Case",
+    "quality": "Mil-Spec",
+    "skin": "Ironwork",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "Glove Case",
+    "quality": "Mil-Spec",
+    "skin": "Polymer",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "Glove Case",
+    "quality": "Restricted",
+    "skin": "Cyrex",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "Glove Case",
+    "quality": "Restricted",
+    "skin": "Gila",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "Glove Case",
+    "quality": "Restricted",
+    "skin": "Flashback",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "Glove Case",
+    "quality": "Restricted",
+    "skin": "Stinger",
+    "weapon": "G3SG1"
+  },
+  {
+    "collection": "Glove Case",
+    "quality": "Restricted",
+    "skin": "Royal Consorts",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "Glove Case",
+    "quality": "Classified",
+    "skin": "Wasteland Princess",
+    "weapon": "Sawed-Off"
+  },
+  {
+    "collection": "Glove Case",
+    "quality": "Classified",
+    "skin": "Shallow Grave",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Glove Case",
+    "quality": "Classified",
+    "skin": "Mecha Industries",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "Glove Case",
+    "quality": "Covert",
+    "skin": "Buzz Kill",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "Glove Case",
+    "quality": "Covert",
+    "skin": "Dragonfire",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "Spectrum Case",
+    "quality": "Mil-Spec",
+    "skin": "Jungle Slipstream",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "Spectrum Case",
+    "quality": "Mil-Spec",
+    "skin": "Blueprint",
+    "weapon": "SCAR-20"
+  },
+  {
+    "collection": "Spectrum Case",
+    "quality": "Mil-Spec",
+    "skin": "Oxide Blaze",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "Spectrum Case",
+    "quality": "Mil-Spec",
+    "skin": "Capillary",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "Spectrum Case",
+    "quality": "Mil-Spec",
+    "skin": "Akoben",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "Spectrum Case",
+    "quality": "Mil-Spec",
+    "skin": "Ripple",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Spectrum Case",
+    "quality": "Mil-Spec",
+    "skin": "Zander",
+    "weapon": "Sawed-Off"
+  },
+  {
+    "collection": "Spectrum Case",
+    "quality": "Restricted",
+    "skin": "Crimson Tsunami",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "Spectrum Case",
+    "quality": "Restricted",
+    "skin": "Emerald Poison Dart",
+    "weapon": "M249"
+  },
+  {
+    "collection": "Spectrum Case",
+    "quality": "Restricted",
+    "skin": "Last Dive",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Spectrum Case",
+    "quality": "Restricted",
+    "skin": "Scaffold",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "Spectrum Case",
+    "quality": "Restricted",
+    "skin": "Seasons",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "Spectrum Case",
+    "quality": "Classified",
+    "skin": "Fever Dream",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Spectrum Case",
+    "quality": "Classified",
+    "skin": "Xiangliu",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "Spectrum Case",
+    "quality": "Classified",
+    "skin": "Decimator",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "Spectrum Case",
+    "quality": "Covert",
+    "skin": "Bloodsport",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Spectrum Case",
+    "quality": "Covert",
+    "skin": "Neo-Noir",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "Operation Hydra Case",
+    "quality": "Mil-Spec",
+    "skin": "Blueprint",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "Operation Hydra Case",
+    "quality": "Mil-Spec",
+    "skin": "Macabre",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "Operation Hydra Case",
+    "quality": "Mil-Spec",
+    "skin": "Briefing",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "Operation Hydra Case",
+    "quality": "Mil-Spec",
+    "skin": "Aloha",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Operation Hydra Case",
+    "quality": "Mil-Spec",
+    "skin": "Hard Water",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "Operation Hydra Case",
+    "quality": "Mil-Spec",
+    "skin": "Cut Out",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Operation Hydra Case",
+    "quality": "Mil-Spec",
+    "skin": "Metal Flowers",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "Operation Hydra Case",
+    "quality": "Restricted",
+    "skin": "Orbit Mk01",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Operation Hydra Case",
+    "quality": "Restricted",
+    "skin": "Woodsman",
+    "weapon": "P2000"
+  },
+  {
+    "collection": "Operation Hydra Case",
+    "quality": "Restricted",
+    "skin": "Red Rock",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Operation Hydra Case",
+    "quality": "Restricted",
+    "skin": "Death Grip",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Operation Hydra Case",
+    "quality": "Restricted",
+    "skin": "Death's Head",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "Operation Hydra Case",
+    "quality": "Classified",
+    "skin": "Cobra Strike",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "Operation Hydra Case",
+    "quality": "Classified",
+    "skin": "Sugar Rush",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "Operation Hydra Case",
+    "quality": "Classified",
+    "skin": "Hellfire",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "Operation Hydra Case",
+    "quality": "Covert",
+    "skin": "Hyper Beast",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "Operation Hydra Case",
+    "quality": "Covert",
+    "skin": "Oni Taiji",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Spectrum 2 Case",
+    "quality": "Mil-Spec",
+    "skin": "Oceanic",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Spectrum 2 Case",
+    "quality": "Mil-Spec",
+    "skin": "Morris",
+    "weapon": "Sawed-Off"
+  },
+  {
+    "collection": "Spectrum 2 Case",
+    "quality": "Mil-Spec",
+    "skin": "Jungle Slipstream",
+    "weapon": "SCAR-20"
+  },
+  {
+    "collection": "Spectrum 2 Case",
+    "quality": "Mil-Spec",
+    "skin": "Capillary",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "Spectrum 2 Case",
+    "quality": "Mil-Spec",
+    "skin": "Triqua",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "Spectrum 2 Case",
+    "quality": "Mil-Spec",
+    "skin": "Hunter",
+    "weapon": "G3SG1"
+  },
+  {
+    "collection": "Spectrum 2 Case",
+    "quality": "Mil-Spec",
+    "skin": "Cracked Opal",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Spectrum 2 Case",
+    "quality": "Mil-Spec",
+    "skin": "Off World",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "Spectrum 2 Case",
+    "quality": "Restricted",
+    "skin": "Goo",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "Spectrum 2 Case",
+    "quality": "Restricted",
+    "skin": "Phantom",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "Spectrum 2 Case",
+    "quality": "Restricted",
+    "skin": "Ziggy",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "Spectrum 2 Case",
+    "quality": "Restricted",
+    "skin": "Exposure",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "Spectrum 2 Case",
+    "quality": "Restricted",
+    "skin": "Tacticat",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "Spectrum 2 Case",
+    "quality": "Classified",
+    "skin": "High Roller",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "Spectrum 2 Case",
+    "quality": "Classified",
+    "skin": "Llama Cannon",
+    "weapon": "R8 Revolver"
+  },
+  {
+    "collection": "Spectrum 2 Case",
+    "quality": "Classified",
+    "skin": "Leaded Glass",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "Spectrum 2 Case",
+    "quality": "Covert",
+    "skin": "The Empress",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Spectrum 2 Case",
+    "quality": "Covert",
+    "skin": "See Ya Later",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Clutch Case",
+    "quality": "Mil-Spec",
+    "skin": "Aloha",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "Clutch Case",
+    "quality": "Mil-Spec",
+    "skin": "Black Sand",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "Clutch Case",
+    "quality": "Mil-Spec",
+    "skin": "Oxide Blaze",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "Clutch Case",
+    "quality": "Mil-Spec",
+    "skin": "Urban Hazard",
+    "weapon": "P2000"
+  },
+  {
+    "collection": "Clutch Case",
+    "quality": "Mil-Spec",
+    "skin": "Grip",
+    "weapon": "R8 Revolver"
+  },
+  {
+    "collection": "Clutch Case",
+    "quality": "Mil-Spec",
+    "skin": "Flame Test",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "Clutch Case",
+    "quality": "Mil-Spec",
+    "skin": "Night Riot",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "Clutch Case",
+    "quality": "Restricted",
+    "skin": "Wild Six",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "Clutch Case",
+    "quality": "Restricted",
+    "skin": "Lionfish",
+    "weapon": "Negev"
+  },
+  {
+    "collection": "Clutch Case",
+    "quality": "Restricted",
+    "skin": "SWAG-7",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "Clutch Case",
+    "quality": "Restricted",
+    "skin": "Arctic Wolf",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "Clutch Case",
+    "quality": "Restricted",
+    "skin": "Moonrise",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "Clutch Case",
+    "quality": "Classified",
+    "skin": "Cortex",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "Clutch Case",
+    "quality": "Classified",
+    "skin": "Stymphalian",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "Clutch Case",
+    "quality": "Classified",
+    "skin": "Mortis",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Clutch Case",
+    "quality": "Covert",
+    "skin": "Bloodsport",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "Clutch Case",
+    "quality": "Covert",
+    "skin": "Neo-Noir",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "Horizon Case",
+    "quality": "Mil-Spec",
+    "skin": "Shred",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "Horizon Case",
+    "quality": "Mil-Spec",
+    "skin": "Survivalist",
+    "weapon": "R8 Revolver"
+  },
+  {
+    "collection": "Horizon Case",
+    "quality": "Mil-Spec",
+    "skin": "Capillary",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "Horizon Case",
+    "quality": "Mil-Spec",
+    "skin": "Amber Slipstream",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "Horizon Case",
+    "quality": "Mil-Spec",
+    "skin": "Snek-9",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Horizon Case",
+    "quality": "Mil-Spec",
+    "skin": "Traction",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Horizon Case",
+    "quality": "Mil-Spec",
+    "skin": "Warhawk",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "Horizon Case",
+    "quality": "Restricted",
+    "skin": "Toy Soldier",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "Horizon Case",
+    "quality": "Restricted",
+    "skin": "High Seas",
+    "weapon": "G3SG1"
+  },
+  {
+    "collection": "Horizon Case",
+    "quality": "Restricted",
+    "skin": "Powercore",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "Horizon Case",
+    "quality": "Restricted",
+    "skin": "Eco",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "Horizon Case",
+    "quality": "Restricted",
+    "skin": "PAW",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Horizon Case",
+    "quality": "Classified",
+    "skin": "Eye of Athena",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "Horizon Case",
+    "quality": "Classified",
+    "skin": "Devourer",
+    "weapon": "Sawed-Off"
+  },
+  {
+    "collection": "Horizon Case",
+    "quality": "Classified",
+    "skin": "Nightmare",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "Horizon Case",
+    "quality": "Covert",
+    "skin": "Code Red",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "Horizon Case",
+    "quality": "Covert",
+    "skin": "Neon Rider",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Danger Zone Case",
+    "quality": "Mil-Spec",
+    "skin": "Modest Threat",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "Danger Zone Case",
+    "quality": "Mil-Spec",
+    "skin": "Oxide Blaze",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "Danger Zone Case",
+    "quality": "Mil-Spec",
+    "skin": "Wood Fired",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "Danger Zone Case",
+    "quality": "Mil-Spec",
+    "skin": "Magnesium",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "Danger Zone Case",
+    "quality": "Mil-Spec",
+    "skin": "Black Sand",
+    "weapon": "Sawed-Off"
+  },
+  {
+    "collection": "Danger Zone Case",
+    "quality": "Mil-Spec",
+    "skin": "Danger Close",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "Danger Zone Case",
+    "quality": "Mil-Spec",
+    "skin": "Fubar",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Danger Zone Case",
+    "quality": "Restricted",
+    "skin": "Scavenger",
+    "weapon": "G3SG1"
+  },
+  {
+    "collection": "Danger Zone Case",
+    "quality": "Restricted",
+    "skin": "Signal",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "Danger Zone Case",
+    "quality": "Restricted",
+    "skin": "Pipe Down",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Danger Zone Case",
+    "quality": "Restricted",
+    "skin": "Nevermore",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Danger Zone Case",
+    "quality": "Restricted",
+    "skin": "Flashback",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "Danger Zone Case",
+    "quality": "Classified",
+    "skin": "Momentum",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "Danger Zone Case",
+    "quality": "Classified",
+    "skin": "Mecha Industries",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "Danger Zone Case",
+    "quality": "Classified",
+    "skin": "Phosphor",
+    "weapon": "MP5-SD"
+  },
+  {
+    "collection": "Danger Zone Case",
+    "quality": "Covert",
+    "skin": "Asiimov",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Danger Zone Case",
+    "quality": "Covert",
+    "skin": "Neo-Noir",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Prisma Case",
+    "quality": "Mil-Spec",
+    "skin": "Crypsis",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "Prisma Case",
+    "quality": "Mil-Spec",
+    "skin": "Uncharted",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Prisma Case",
+    "quality": "Mil-Spec",
+    "skin": "Whitefish",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Prisma Case",
+    "quality": "Mil-Spec",
+    "skin": "Akoben",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "Prisma Case",
+    "quality": "Mil-Spec",
+    "skin": "Mischief",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "Prisma Case",
+    "quality": "Mil-Spec",
+    "skin": "Verdigris",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Prisma Case",
+    "quality": "Mil-Spec",
+    "skin": "Off World",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Prisma Case",
+    "quality": "Restricted",
+    "skin": "Atheris",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Prisma Case",
+    "quality": "Restricted",
+    "skin": "Bamboozle",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Prisma Case",
+    "quality": "Restricted",
+    "skin": "Light Rail",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "Prisma Case",
+    "quality": "Restricted",
+    "skin": "Gauss",
+    "weapon": "MP5-SD"
+  },
+  {
+    "collection": "Prisma Case",
+    "quality": "Restricted",
+    "skin": "Moonrise",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "Prisma Case",
+    "quality": "Classified",
+    "skin": "Skull Crusher",
+    "weapon": "R8 Revolver"
+  },
+  {
+    "collection": "Prisma Case",
+    "quality": "Classified",
+    "skin": "Momentum",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "Prisma Case",
+    "quality": "Classified",
+    "skin": "Incinegator",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "Prisma Case",
+    "quality": "Covert",
+    "skin": "Angry Mob",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "Prisma Case",
+    "quality": "Covert",
+    "skin": "The Emperor",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "CS20 Case",
+    "quality": "Mil-Spec",
+    "skin": "Flash Out",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "CS20 Case",
+    "quality": "Mil-Spec",
+    "skin": "Assault",
+    "weapon": "SCAR-20"
+  },
+  {
+    "collection": "CS20 Case",
+    "quality": "Mil-Spec",
+    "skin": "Elite 1.6",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "CS20 Case",
+    "quality": "Mil-Spec",
+    "skin": "Popdog",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "CS20 Case",
+    "quality": "Mil-Spec",
+    "skin": "Classic Crate",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "CS20 Case",
+    "quality": "Mil-Spec",
+    "skin": "Decommissioned",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "CS20 Case",
+    "quality": "Mil-Spec",
+    "skin": "Sacrifice",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "CS20 Case",
+    "quality": "Restricted",
+    "skin": "Aztec",
+    "weapon": "M249"
+  },
+  {
+    "collection": "CS20 Case",
+    "quality": "Restricted",
+    "skin": "Buddy",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "CS20 Case",
+    "quality": "Restricted",
+    "skin": "Plastique",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "CS20 Case",
+    "quality": "Restricted",
+    "skin": "Inferno",
+    "weapon": "P250"
+  },
+  {
+    "collection": "CS20 Case",
+    "quality": "Restricted",
+    "skin": "Agent",
+    "weapon": "MP5-SD"
+  },
+  {
+    "collection": "CS20 Case",
+    "quality": "Classified",
+    "skin": "Nostalgia",
+    "weapon": "P90"
+  },
+  {
+    "collection": "CS20 Case",
+    "quality": "Classified",
+    "skin": "Death by Puppy",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "CS20 Case",
+    "quality": "Classified",
+    "skin": "Hydra",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "CS20 Case",
+    "quality": "Covert",
+    "skin": "Commemoration",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "CS20 Case",
+    "quality": "Covert",
+    "skin": "Wildfire",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Shattered Web Case",
+    "quality": "Mil-Spec",
+    "skin": "Plume",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "Shattered Web Case",
+    "quality": "Mil-Spec",
+    "skin": "Black Sand",
+    "weapon": "G3SG1"
+  },
+  {
+    "collection": "Shattered Web Case",
+    "quality": "Mil-Spec",
+    "skin": "Memento",
+    "weapon": "R8 Revolver"
+  },
+  {
+    "collection": "Shattered Web Case",
+    "quality": "Mil-Spec",
+    "skin": "Warbird",
+    "weapon": "M249"
+  },
+  {
+    "collection": "Shattered Web Case",
+    "quality": "Mil-Spec",
+    "skin": "Torn",
+    "weapon": "SCAR-20"
+  },
+  {
+    "collection": "Shattered Web Case",
+    "quality": "Mil-Spec",
+    "skin": "Acid Wash",
+    "weapon": "MP5-SD"
+  },
+  {
+    "collection": "Shattered Web Case",
+    "quality": "Mil-Spec",
+    "skin": "Balance",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "Shattered Web Case",
+    "quality": "Restricted",
+    "skin": "Embargo",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "Shattered Web Case",
+    "quality": "Restricted",
+    "skin": "Obsidian",
+    "weapon": "P2000"
+  },
+  {
+    "collection": "Shattered Web Case",
+    "quality": "Restricted",
+    "skin": "Neon Ply",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "Shattered Web Case",
+    "quality": "Restricted",
+    "skin": "Arctic Wolf",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "Shattered Web Case",
+    "quality": "Restricted",
+    "skin": "Rat Rod",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Shattered Web Case",
+    "quality": "Classified",
+    "skin": "Decimator",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Shattered Web Case",
+    "quality": "Classified",
+    "skin": "Bloodshot",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "Shattered Web Case",
+    "quality": "Classified",
+    "skin": "Colony IV",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "Shattered Web Case",
+    "quality": "Covert",
+    "skin": "Stalker",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Shattered Web Case",
+    "quality": "Covert",
+    "skin": "Containment Breach",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Prisma 2 Case",
+    "quality": "Mil-Spec",
+    "skin": "Distressed",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "Prisma 2 Case",
+    "quality": "Mil-Spec",
+    "skin": "Prototype",
+    "weapon": "Negev"
+  },
+  {
+    "collection": "Prisma 2 Case",
+    "quality": "Mil-Spec",
+    "skin": "Bone Forged",
+    "weapon": "R8 Revolver"
+  },
+  {
+    "collection": "Prisma 2 Case",
+    "quality": "Mil-Spec",
+    "skin": "Desert Strike",
+    "weapon": "MP5-SD"
+  },
+  {
+    "collection": "Prisma 2 Case",
+    "quality": "Mil-Spec",
+    "skin": "Tom Cat",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "Prisma 2 Case",
+    "quality": "Mil-Spec",
+    "skin": "Blue Ply",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "Prisma 2 Case",
+    "quality": "Mil-Spec",
+    "skin": "Capillary",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Prisma 2 Case",
+    "quality": "Restricted",
+    "skin": "Acid Etched",
+    "weapon": "P2000"
+  },
+  {
+    "collection": "Prisma 2 Case",
+    "quality": "Restricted",
+    "skin": "Enforcer",
+    "weapon": "SCAR-20"
+  },
+  {
+    "collection": "Prisma 2 Case",
+    "quality": "Restricted",
+    "skin": "Apocalypto",
+    "weapon": "Sawed-Off"
+  },
+  {
+    "collection": "Prisma 2 Case",
+    "quality": "Restricted",
+    "skin": "Darkwing",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "Prisma 2 Case",
+    "quality": "Restricted",
+    "skin": "Fever Dream",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "Prisma 2 Case",
+    "quality": "Classified",
+    "skin": "Justice",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "Prisma 2 Case",
+    "quality": "Classified",
+    "skin": "Disco Tech",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Prisma 2 Case",
+    "quality": "Classified",
+    "skin": "Phantom Disruptor",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Prisma 2 Case",
+    "quality": "Covert",
+    "skin": "Player Two",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "Prisma 2 Case",
+    "quality": "Covert",
+    "skin": "Bullet Queen",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "Fracture Case",
+    "quality": "Mil-Spec",
+    "skin": "Ol' Rusty",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "Fracture Case",
+    "quality": "Mil-Spec",
+    "skin": "Ultralight",
+    "weapon": "Negev"
+  },
+  {
+    "collection": "Fracture Case",
+    "quality": "Mil-Spec",
+    "skin": "Gnarled",
+    "weapon": "P2000"
+  },
+  {
+    "collection": "Fracture Case",
+    "quality": "Mil-Spec",
+    "skin": "Cassette",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Fracture Case",
+    "quality": "Mil-Spec",
+    "skin": "Freight",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Fracture Case",
+    "quality": "Mil-Spec",
+    "skin": "Runic",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "Fracture Case",
+    "quality": "Mil-Spec",
+    "skin": "Mainframe 001",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "Fracture Case",
+    "quality": "Restricted",
+    "skin": "Monster Call",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "Fracture Case",
+    "quality": "Restricted",
+    "skin": "Brother",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Fracture Case",
+    "quality": "Restricted",
+    "skin": "Connexion",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "Fracture Case",
+    "quality": "Restricted",
+    "skin": "Kitbash",
+    "weapon": "MP5-SD"
+  },
+  {
+    "collection": "Fracture Case",
+    "quality": "Restricted",
+    "skin": "Allure",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Fracture Case",
+    "quality": "Classified",
+    "skin": "Entombed",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "Fracture Case",
+    "quality": "Classified",
+    "skin": "Vogue",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "Fracture Case",
+    "quality": "Classified",
+    "skin": "Tooth Fairy",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "Fracture Case",
+    "quality": "Covert",
+    "skin": "Legion of Anubis",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Fracture Case",
+    "quality": "Covert",
+    "skin": "Printstream",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "Broken Fang Case",
+    "quality": "Mil-Spec",
+    "skin": "Digital Mesh",
+    "weapon": "G3SG1"
+  },
+  {
+    "collection": "Broken Fang Case",
+    "quality": "Mil-Spec",
+    "skin": "Deep Relief",
+    "weapon": "M249"
+  },
+  {
+    "collection": "Broken Fang Case",
+    "quality": "Mil-Spec",
+    "skin": "Contaminant",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Broken Fang Case",
+    "quality": "Mil-Spec",
+    "skin": "Vendetta",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "Broken Fang Case",
+    "quality": "Mil-Spec",
+    "skin": "Cocoa Rampage",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Broken Fang Case",
+    "quality": "Mil-Spec",
+    "skin": "Vandal",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "Broken Fang Case",
+    "quality": "Mil-Spec",
+    "skin": "Condition Zero",
+    "weapon": "MP5-SD"
+  },
+  {
+    "collection": "Broken Fang Case",
+    "quality": "Restricted",
+    "skin": "Gold Bismuth",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "Broken Fang Case",
+    "quality": "Restricted",
+    "skin": "Dezastre",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "Broken Fang Case",
+    "quality": "Restricted",
+    "skin": "Clear Polymer",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "Broken Fang Case",
+    "quality": "Restricted",
+    "skin": "Parallax",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "Broken Fang Case",
+    "quality": "Restricted",
+    "skin": "Exoskeleton",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Broken Fang Case",
+    "quality": "Classified",
+    "skin": "Fairy Tale",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "Broken Fang Case",
+    "quality": "Classified",
+    "skin": "Monster Mashup",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "Broken Fang Case",
+    "quality": "Classified",
+    "skin": "Cyber Security",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "Broken Fang Case",
+    "quality": "Covert",
+    "skin": "Neo-Noir",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "Broken Fang Case",
+    "quality": "Covert",
+    "skin": "Printstream",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "Snakebite Case",
+    "quality": "Mil-Spec",
+    "skin": "Oscillator",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "Snakebite Case",
+    "quality": "Mil-Spec",
+    "skin": "Windblown",
+    "weapon": "Nova"
+  },
+  {
+    "collection": "Snakebite Case",
+    "quality": "Mil-Spec",
+    "skin": "O.S.I.P.R.",
+    "weapon": "M249"
+  },
+  {
+    "collection": "Snakebite Case",
+    "quality": "Mil-Spec",
+    "skin": "Circaetus",
+    "weapon": "CZ75-Auto"
+  },
+  {
+    "collection": "Snakebite Case",
+    "quality": "Mil-Spec",
+    "skin": "Junk Yard",
+    "weapon": "R8 Revolver"
+  },
+  {
+    "collection": "Snakebite Case",
+    "quality": "Mil-Spec",
+    "skin": "Heavy Metal",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "Snakebite Case",
+    "quality": "Mil-Spec",
+    "skin": "Clear Polymer",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "Snakebite Case",
+    "quality": "Restricted",
+    "skin": "dev_texture",
+    "weapon": "Negev"
+  },
+  {
+    "collection": "Snakebite Case",
+    "quality": "Restricted",
+    "skin": "Button Masher",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Snakebite Case",
+    "quality": "Restricted",
+    "skin": "Cyber Shell",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Snakebite Case",
+    "quality": "Restricted",
+    "skin": "Trigger Discipline",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "Snakebite Case",
+    "quality": "Restricted",
+    "skin": "Slate",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Snakebite Case",
+    "quality": "Classified",
+    "skin": "XOXO",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "Snakebite Case",
+    "quality": "Classified",
+    "skin": "Chromatic Aberration",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "Snakebite Case",
+    "quality": "Classified",
+    "skin": "Food Chain",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "Snakebite Case",
+    "quality": "Covert",
+    "skin": "In Living Color",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "Snakebite Case",
+    "quality": "Covert",
+    "skin": "The Traitor",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "Operation Riptide Case",
+    "quality": "Mil-Spec",
+    "skin": "Plague",
+    "weapon": "AUG"
+  },
+  {
+    "collection": "Operation Riptide Case",
+    "quality": "Mil-Spec",
+    "skin": "Tread",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "Operation Riptide Case",
+    "quality": "Mil-Spec",
+    "skin": "Keeping Tabs",
+    "weapon": "G3SG1"
+  },
+  {
+    "collection": "Operation Riptide Case",
+    "quality": "Mil-Spec",
+    "skin": "Guerrilla",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "Operation Riptide Case",
+    "quality": "Mil-Spec",
+    "skin": "Lumen",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "Operation Riptide Case",
+    "quality": "Mil-Spec",
+    "skin": "Black Lotus",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "Operation Riptide Case",
+    "quality": "Mil-Spec",
+    "skin": "Watchdog",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "Operation Riptide Case",
+    "quality": "Restricted",
+    "skin": "BI83 Spectrum",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "Operation Riptide Case",
+    "quality": "Restricted",
+    "skin": "ZX Spectron",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "Operation Riptide Case",
+    "quality": "Restricted",
+    "skin": "Boost Protocol",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "Operation Riptide Case",
+    "quality": "Restricted",
+    "skin": "Mount Fuji",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "Operation Riptide Case",
+    "quality": "Restricted",
+    "skin": "Spider Lily",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "Operation Riptide Case",
+    "quality": "Classified",
+    "skin": "Toybox",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Operation Riptide Case",
+    "quality": "Classified",
+    "skin": "Snack Attack",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "Operation Riptide Case",
+    "quality": "Classified",
+    "skin": "Turbo Peek",
+    "weapon": "SSG 08"
+  },
+  {
+    "collection": "Operation Riptide Case",
+    "quality": "Covert",
+    "skin": "Leet Museo",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Operation Riptide Case",
+    "quality": "Covert",
+    "skin": "Ocean Drive",
+    "weapon": "Desert Eagle"
+  },
+  {
+    "collection": "Dreams &amp; Nightmares Case",
+    "quality": "Mil-Spec",
+    "skin": "Scrawl",
+    "weapon": "Five-SeveN"
+  },
+  {
+    "collection": "Dreams &amp; Nightmares Case",
+    "quality": "Mil-Spec",
+    "skin": "Ensnared",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Dreams &amp; Nightmares Case",
+    "quality": "Mil-Spec",
+    "skin": "Foresight",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "Dreams &amp; Nightmares Case",
+    "quality": "Mil-Spec",
+    "skin": "Necro Jr.",
+    "weapon": "MP5-SD"
+  },
+  {
+    "collection": "Dreams &amp; Nightmares Case",
+    "quality": "Mil-Spec",
+    "skin": "Lifted Spirits",
+    "weapon": "P2000"
+  },
+  {
+    "collection": "Dreams &amp; Nightmares Case",
+    "quality": "Mil-Spec",
+    "skin": "Poultrygeist",
+    "weapon": "SCAR-20"
+  },
+  {
+    "collection": "Dreams &amp; Nightmares Case",
+    "quality": "Mil-Spec",
+    "skin": "Spirit Board",
+    "weapon": "Sawed-Off"
+  },
+  {
+    "collection": "Dreams &amp; Nightmares Case",
+    "quality": "Restricted",
+    "skin": "Space Cat",
+    "weapon": "PP-Bizon"
+  },
+  {
+    "collection": "Dreams &amp; Nightmares Case",
+    "quality": "Restricted",
+    "skin": "Dream Glade",
+    "weapon": "G3SG1"
+  },
+  {
+    "collection": "Dreams &amp; Nightmares Case",
+    "quality": "Restricted",
+    "skin": "Night Terror",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "Dreams &amp; Nightmares Case",
+    "quality": "Restricted",
+    "skin": "Zombie Offensive",
+    "weapon": "XM1014"
+  },
+  {
+    "collection": "Dreams &amp; Nightmares Case",
+    "quality": "Restricted",
+    "skin": "Ticket to Hell",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "Dreams &amp; Nightmares Case",
+    "quality": "Classified",
+    "skin": "Melondrama",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "Dreams &amp; Nightmares Case",
+    "quality": "Classified",
+    "skin": "Rapid Eye Movement",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "Dreams &amp; Nightmares Case",
+    "quality": "Classified",
+    "skin": "Abyssal Apparition",
+    "weapon": "MP7"
+  },
+  {
+    "collection": "Dreams &amp; Nightmares Case",
+    "quality": "Covert",
+    "skin": "Nightwish",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Dreams &amp; Nightmares Case",
+    "quality": "Covert",
+    "skin": "Starlight Protector",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "Recoil Case",
+    "quality": "Mil-Spec",
+    "skin": "Drop Me",
+    "weapon": "Negev"
+  },
+  {
+    "collection": "Recoil Case",
+    "quality": "Mil-Spec",
+    "skin": "Destroyer",
+    "weapon": "Galil AR"
+  },
+  {
+    "collection": "Recoil Case",
+    "quality": "Mil-Spec",
+    "skin": "Roadblock",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "Recoil Case",
+    "quality": "Mil-Spec",
+    "skin": "Monkeyflage",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Recoil Case",
+    "quality": "Mil-Spec",
+    "skin": "Meow 36",
+    "weapon": "FAMAS"
+  },
+  {
+    "collection": "Recoil Case",
+    "quality": "Mil-Spec",
+    "skin": "Winterized",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "Recoil Case",
+    "quality": "Mil-Spec",
+    "skin": "Poly Mag",
+    "weapon": "M4A4"
+  },
+  {
+    "collection": "Recoil Case",
+    "quality": "Restricted",
+    "skin": "Downtown",
+    "weapon": "M249"
+  },
+  {
+    "collection": "Recoil Case",
+    "quality": "Restricted",
+    "skin": "Vent Rush",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Recoil Case",
+    "quality": "Restricted",
+    "skin": "Flora Carnivora",
+    "weapon": "Dual Berettas"
+  },
+  {
+    "collection": "Recoil Case",
+    "quality": "Restricted",
+    "skin": "Dragon Tech",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "Recoil Case",
+    "quality": "Restricted",
+    "skin": "Crazy 8",
+    "weapon": "R8 Revolver"
+  },
+  {
+    "collection": "Recoil Case",
+    "quality": "Classified",
+    "skin": "Visions",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Recoil Case",
+    "quality": "Classified",
+    "skin": "Kiss♥Love",
+    "weapon": "Sawed-Off"
+  },
+  {
+    "collection": "Recoil Case",
+    "quality": "Classified",
+    "skin": "Ice Coaled",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Recoil Case",
+    "quality": "Covert",
+    "skin": "Chromatic Aberration",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Recoil Case",
+    "quality": "Covert",
+    "skin": "Printstream",
+    "weapon": "USP-S"
+  },
+  {
+    "collection": "Revolution Case",
+    "quality": "Mil-Spec",
+    "skin": "Featherweight",
+    "weapon": "MP9"
+  },
+  {
+    "collection": "Revolution Case",
+    "quality": "Mil-Spec",
+    "skin": "Insomnia",
+    "weapon": "MAG-7"
+  },
+  {
+    "collection": "Revolution Case",
+    "quality": "Mil-Spec",
+    "skin": "Fragments",
+    "weapon": "SCAR-20"
+  },
+  {
+    "collection": "Revolution Case",
+    "quality": "Mil-Spec",
+    "skin": "Re.built",
+    "weapon": "P250"
+  },
+  {
+    "collection": "Revolution Case",
+    "quality": "Mil-Spec",
+    "skin": "Liquidation",
+    "weapon": "MP5-SD"
+  },
+  {
+    "collection": "Revolution Case",
+    "quality": "Mil-Spec",
+    "skin": "Cyberforce",
+    "weapon": "SG 553"
+  },
+  {
+    "collection": "Revolution Case",
+    "quality": "Mil-Spec",
+    "skin": "Rebel",
+    "weapon": "Tec-9"
+  },
+  {
+    "collection": "Revolution Case",
+    "quality": "Restricted",
+    "skin": "Emphorosaur-S",
+    "weapon": "M4A1-S"
+  },
+  {
+    "collection": "Revolution Case",
+    "quality": "Restricted",
+    "skin": "Umbral Rabbit",
+    "weapon": "Glock-18"
+  },
+  {
+    "collection": "Revolution Case",
+    "quality": "Restricted",
+    "skin": "Sakkaku",
+    "weapon": "MAC-10"
+  },
+  {
+    "collection": "Revolution Case",
+    "quality": "Restricted",
+    "skin": "Banana Cannon",
+    "weapon": "R8 Revolver"
+  },
+  {
+    "collection": "Revolution Case",
+    "quality": "Restricted",
+    "skin": "Neoqueen",
+    "weapon": "P90"
+  },
+  {
+    "collection": "Revolution Case",
+    "quality": "Classified",
+    "skin": "Duality",
+    "weapon": "AWP"
+  },
+  {
+    "collection": "Revolution Case",
+    "quality": "Classified",
+    "skin": "Wild Child",
+    "weapon": "UMP-45"
+  },
+  {
+    "collection": "Revolution Case",
+    "quality": "Classified",
+    "skin": "Wicked Sick",
+    "weapon": "P2000"
+  },
+  {
+    "collection": "Revolution Case",
+    "quality": "Covert",
+    "skin": "Head Shot",
+    "weapon": "AK-47"
+  },
+  {
+    "collection": "Revolution Case",
+    "quality": "Covert",
+    "skin": "Temukau",
+    "weapon": "M4A4"
+  }
+]
