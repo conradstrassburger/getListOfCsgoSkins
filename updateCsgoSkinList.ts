@@ -6,9 +6,9 @@ const { createObjectCsvWriter } = require('csv-writer');
 getSite();
 
 interface Item {
-    quality: string;
-    skin: string;
-    weapon: string;
+    quality: string
+    skin: string
+    weapon: string
     collection: string
 }
 
@@ -19,7 +19,8 @@ interface SkinFamily {
 }
 
 async function getSite() {
-    console.log("fetching counterstrike.fandom.com");
+    console.log("fetching counterstrike.fandom.com for skin list");
+
     let options = {
         hostname: "counterstrike.fandom.com",
         path: "/wiki/Skins/List",
@@ -88,16 +89,19 @@ async function getSite() {
                 }
             });
 
+            console.log("fetching csgostash.com for skin families");
+
             let skinFamilies: Map<string, SkinFamily> = new Map<string, SkinFamily>()
-
+            let i = 0
             for (const skinFamilyName of skinFamilyNames) {
-                //setTimeout(() => {}, 100)
-
                 const url = new URL('https://csgostash.com/family/');
                 url.pathname = url.pathname.concat(skinFamilyName.replaceAll(" ", "+"))
 
                 const skinFamily = await fetchSkinFamilyFromCS2Stash(url)
                 skinFamilies.set(skinFamilyName, skinFamily)
+
+                i++
+                console.log(`${Math.round(i / skinFamilyNames.size * 100)}% done`)
             }
 
             // Create a CSV writer
@@ -132,45 +136,37 @@ async function getSite() {
     req.end();
 }
 
-async function fetchSkinFamilyFromCS2Stash(url: URL) {
-    // Create a Map to store key-value pairs
-    const resultMap = new Map<string, URL>();
+async function fetchSkinFamilyFromCS2Stash(skinFamilyUrl: URL) {
+    const members = new Map<string, URL>();
     let skinFamily: SkinFamily
 
     try {
-        const response = await fetch(url);
+        const response = await fetch(skinFamilyUrl);
         const html = await response.text();
         const root = parser.parse(html);
 
-        // Select all elements with the .result-box a selector
-        const elements = root.querySelectorAll('.result-box:not(:has(.abbu-body-resultbox))');
+        // Select all result boxes except ad boxes
+        const boxes = root.querySelectorAll('.result-box:not(:has(.abbu-body-resultbox))');
 
         // Iterate through the elements and save data to the Map
-        elements.forEach((element) => {
+        boxes.forEach((element) => {
             const key = element.querySelector('h3 > a').rawText.trim();
             const href = new URL(element.querySelector('a:has(> img)').getAttribute('href'));
 
             if (key && href) {
-                resultMap.set(key, href);
+                members.set(key, href);
             }
         });
 
-        // Display the Map
-        resultMap.forEach((value, key) => {
-            console.log(`${key}: ${value}`);
-        });
-
-
         skinFamily = {
-            count: elements.length,
-            link: url,
-            members: resultMap
+            count: boxes.length,
+            link: skinFamilyUrl,
+            members: members
         }
 
     } catch (error) {
         console.error('Error: ', error);
     }
-
 
     return skinFamily
 }
