@@ -1,4 +1,5 @@
 import {createObjectCsvWriter} from "csv-writer";
+
 const fs = require('fs')
 
 const pricempireLink = "https://pricempire.com/item/cs2/skin"
@@ -26,8 +27,7 @@ function writeFamiliesCsv() {
             {id: 'skinFamilyName', title: 'Skin Family Name'},
             {id: 'count', title: 'Count'},
             {id: 'link', title: 'Link'},
-            {id: 'members', title: 'Members'},
-            {id: 'prices', title: 'Prices'},
+            {id: 'prices', title: 'Pricempire Link(s)'},
         ],
     });
 
@@ -38,8 +38,7 @@ function writeFamiliesCsv() {
             skinFamilyName,
             count: skinFamily.count,
             link: skinFamily.link.toString(),
-            members: skinFamily.members.map(m => m[0]).join(", "),
-            prices: skinFamily.members.map(m => createPricempireLink(m[1])).join(", "),
+            prices: skinFamily.members.map(m => convertLinkToHyperlinkFunction(createPricempireLink(m[1]), m[0])).join(", "),
         });
     });
 
@@ -59,6 +58,10 @@ function createPricempireLink(cs2StashLink: URL) {
         .replace(/[^a-zA-Z0-9 \-\/]/g, "")
 
     return pricempireLink.concat(nameFragment)
+}
+
+function convertLinkToHyperlinkFunction(link: string, label?: string) {
+    return `=HYPERLINK("${link}"${label ? "; \"" + label + "\"" : ""})`
 }
 
 writeFamiliesCsv()
