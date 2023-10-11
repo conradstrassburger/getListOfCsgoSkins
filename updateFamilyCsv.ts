@@ -1,6 +1,4 @@
-import {createObjectCsvWriter} from "csv-writer";
-
-const fs = require('fs')
+const {createObjectCsvWriter} = require('csv-writer');
 
 const pricempireLink = "https://pricempire.com/item/cs2/skin"
 

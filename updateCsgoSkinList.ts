@@ -1,4 +1,4 @@
-const parser = require("node-html-parser");
+const parser = require("node-html-parser")
 const fs = require('fs')
 
 interface Item {
