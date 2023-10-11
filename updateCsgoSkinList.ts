@@ -1,9 +1,6 @@
 const parser = require("node-html-parser");
 const fs = require('fs')
-const https = require("https")
-const { createObjectCsvWriter } = require('csv-writer');
-
-getSite();
+const {createObjectCsvWriter} = require('csv-writer');
 
 interface Item {
     quality: string
@@ -18,122 +15,114 @@ interface SkinFamily {
     members: Map<string, URL>
 }
 
-async function getSite() {
-    console.log("fetching counterstrike.fandom.com for skin list");
+const fandomUrl = new URL("https://counterstrike.fandom.com/wiki/Skins/List")
 
-    let options = {
-        hostname: "counterstrike.fandom.com",
-        path: "/wiki/Skins/List",
-        method: "GET",
-        headers: {}
+async function getSite() {
+    const items = await fetchSkinListFromFandom()
+
+    writeJson(items, "./csSkins.json")
+
+    console.log("fetching csgostash.com for skin families");
+    const skinFamilyNames = new Set(items.map(i => i.skin))
+    const skinFamilies: Map<string, SkinFamily> = new Map<string, SkinFamily>()
+    let i = 0
+    for (const skinFamilyName of skinFamilyNames) {
+        const url = new URL('https://csgostash.com/family/');
+        url.pathname = url.pathname.concat(skinFamilyName.replaceAll(" ", "+"))
+
+        const skinFamily = await fetchSkinFamilyFromCS2Stash(url)
+        skinFamilies.set(skinFamilyName, skinFamily)
+
+        i++
+        console.log(`${Math.round(i / skinFamilyNames.size * 100)}% done`)
     }
 
-    let response = "";
-    let items: Item[] = [];
-    let skinFamilyNames: Set<string> = new Set<string>()
+    writeJson(skinFamilies, "./skinFamilies.json")
+    writeFamiliesCsv(skinFamilies)
+}
 
-    let req = https.request(options, (res) => {
-        res.on('data', d => {
-            response += d.toString();
-        });
+function writeJson(object: any, filePath: string) {
+    // Convert the array to a JSON string
+    const jsonString = JSON.stringify(object, null, 2); // The second argument is for pretty formatting
 
-        res.on('end', async () => {
-            let root = parser.parse(response);
-            console.log(root);
-            let collectionNames: string[] = [];
-            root.querySelectorAll("h4").forEach(el => {
-                // console.log(el.childNodes[-1].childNodes[0]);
-                collectionNames.push(el.querySelector('a').childNodes[0].rawText);
-            });
+    // Write the JSON string to the file
+    fs.writeFile(filePath, jsonString, (err) => {
+        if (err) {
+            console.error('Error writing to file:', err);
+        } else {
+            console.log('Data written to file successfully.');
+        }
+    });
+}
 
-            let k = 0;
-
-            root.querySelectorAll(".wikitable").forEach(table => {
-
-                table.querySelectorAll('tr').forEach((row, idx) => {
-                    if (idx == 0) {
-                        return;
-                    }
-
-                    let skin: Item = {collection: "", quality: "", skin: "", weapon: ""}
-
-                    skin.collection = collectionNames[k];
-                    skin.weapon = row.querySelector('a').childNodes[0].rawText;
-                    skin.skin = row.querySelectorAll('span')[0].childNodes[0].rawText.replaceAll("*", "").trim();
-                    skin.quality = row.querySelectorAll('span')[1].childNodes[0].rawText;
-
-                    items.push(skin);
-
-                });
-
-                k++;
-
-            })
-            console.log(items);
-
-            // only return unique
-            skinFamilyNames = new Set(items.map(i => i.skin))
-
-            // Convert the array to a JSON string
-            const jsonString = JSON.stringify(items, null, 2); // The second argument is for pretty formatting
-
-            // Specify the file path and name
-            const filePath = './csSkins.json';
-
-            // Write the JSON string to the file
-            fs.writeFile(filePath, jsonString, (err) => {
-                if (err) {
-                    console.error('Error writing to file:', err);
-                } else {
-                    console.log('Data written to file successfully.');
-                }
-            });
-
-            console.log("fetching csgostash.com for skin families");
-
-            let skinFamilies: Map<string, SkinFamily> = new Map<string, SkinFamily>()
-            let i = 0
-            for (const skinFamilyName of skinFamilyNames) {
-                const url = new URL('https://csgostash.com/family/');
-                url.pathname = url.pathname.concat(skinFamilyName.replaceAll(" ", "+"))
-
-                const skinFamily = await fetchSkinFamilyFromCS2Stash(url)
-                skinFamilies.set(skinFamilyName, skinFamily)
-
-                i++
-                console.log(`${Math.round(i / skinFamilyNames.size * 100)}% done`)
-            }
-
-            // Create a CSV writer
-            const csvWriter = createObjectCsvWriter({
-                path: 'skinFamilies.csv', // Specify the CSV file path
-                header: [
-                    { id: 'skinFamilyName', title: 'Skin Family Name' },
-                    { id: 'count', title: 'Count' },
-                    { id: 'link', title: 'Link' },
-                    { id: 'members', title: 'Members' },
-                ],
-            });
-
-            // Prepare data for CSV writing
-            const csvData = [];
-            skinFamilies.forEach((skinFamily, skinFamilyName) => {
-                csvData.push({
-                    skinFamilyName,
-                    count: skinFamily.count,
-                    link: skinFamily.link.toString(),
-                    members: Array.from(skinFamily.members.keys()).join(', '),
-                });
-            });
-
-            // Write the data to the CSV file
-            csvWriter.writeRecords(csvData)
-                .then(() => console.log('CSV file created successfully.'))
-                .catch((error) => console.error('Error writing CSV file:', error))
-        })
+function writeFamiliesCsv(skinFamilies: Map<string, SkinFamily>) {
+    // Create a CSV writer
+    const csvWriter = createObjectCsvWriter({
+        path: 'skinFamilies.csv', // Specify the CSV file path
+        header: [
+            {id: 'skinFamilyName', title: 'Skin Family Name'},
+            {id: 'count', title: 'Count'},
+            {id: 'link', title: 'Link'},
+            {id: 'members', title: 'Members'},
+        ],
     });
 
-    req.end();
+    // Prepare data for CSV writing
+    const csvData = [];
+    skinFamilies.forEach((skinFamily, skinFamilyName) => {
+        csvData.push({
+            skinFamilyName,
+            count: skinFamily.count,
+            link: skinFamily.link.toString(),
+            members: Array.from(skinFamily.members.keys()).join(', '),
+        });
+    });
+
+    // Write the data to the CSV file
+    csvWriter.writeRecords(csvData)
+        .then(() => console.log('CSV file created successfully.'))
+        .catch((error) => console.error('Error writing CSV file:', error))
+}
+
+async function fetchSkinListFromFandom() {
+    let items: Item[] = [];
+
+    try {
+        console.log("fetching counterstrike.fandom.com for skin list");
+        const response = await fetch(fandomUrl);
+        const html = await response.text();
+        const root = parser.parse(html);
+
+        let collectionNames: string[] = [];
+        root.querySelectorAll("h4").forEach(el => {
+            // console.log(el.childNodes[-1].childNodes[0]);
+            collectionNames.push(el.querySelector('a').childNodes[0].rawText);
+        });
+
+        let k = 0;
+
+        root.querySelectorAll(".wikitable").forEach(table => {
+            table.querySelectorAll('tr').forEach((row, idx) => {
+                if (idx == 0) {
+                    return;
+                }
+
+                let skin: Item = {collection: "", quality: "", skin: "", weapon: ""}
+
+                skin.collection = collectionNames[k];
+                skin.weapon = row.querySelector('a').childNodes[0].rawText;
+                skin.skin = row.querySelectorAll('span')[0].childNodes[0].rawText.replaceAll("*", "").trim();
+                skin.quality = row.querySelectorAll('span')[1].childNodes[0].rawText;
+
+                items.push(skin);
+            });
+            k++;
+        })
+    } catch (error) {
+        console.error('Error: ', error);
+    }
+
+    return items
 }
 
 async function fetchSkinFamilyFromCS2Stash(skinFamilyUrl: URL) {
@@ -170,3 +159,5 @@ async function fetchSkinFamilyFromCS2Stash(skinFamilyUrl: URL) {
 
     return skinFamily
 }
+
+getSite();
