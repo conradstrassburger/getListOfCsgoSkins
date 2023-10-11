@@ -1,7 +1,9 @@
 import {createObjectCsvWriter} from "csv-writer";
 const fs = require('fs')
 
-function readFamilies() {
+const pricempireLink = "https://pricempire.com/item/cs2/skin"
+
+function readFamiliesJson() {
     let skinFamilies: Map<string, SkinFamily>
 
     try {
@@ -15,7 +17,7 @@ function readFamilies() {
 }
 
 function writeFamiliesCsv() {
-    const skinFamilies = readFamilies()
+    const skinFamilies = readFamiliesJson()
 
     // Create a CSV writer
     const csvWriter = createObjectCsvWriter({
@@ -25,10 +27,11 @@ function writeFamiliesCsv() {
             {id: 'count', title: 'Count'},
             {id: 'link', title: 'Link'},
             {id: 'members', title: 'Members'},
+            {id: 'prices', title: 'Prices'},
         ],
     });
 
-    // Prepare data for CSV writing
+    // Prepare data
     const csvData = [];
     skinFamilies.forEach((skinFamily, skinFamilyName) => {
         csvData.push({
@@ -36,6 +39,7 @@ function writeFamiliesCsv() {
             count: skinFamily.count,
             link: skinFamily.link.toString(),
             members: skinFamily.members.map(m => m[0]).join(", "),
+            prices: skinFamily.members.map(m => createPricempireLink(m[1])).join(", "),
         });
     });
 
@@ -43,6 +47,18 @@ function writeFamiliesCsv() {
     csvWriter.writeRecords(csvData)
         .then(() => console.log('CSV file created successfully.'))
         .catch((error) => console.error('Error writing CSV file:', error))
+}
+
+function createPricempireLink(cs2StashLink: URL) {
+    // pricempire clean special characters from their urls
+    let nameFragment = cs2StashLink.toString().substring(cs2StashLink.toString().lastIndexOf("/"))
+        .toLowerCase()
+        // clean %-encoded special characters
+        .replace(/-(?:%.{2})+/g, "")
+        // clean actual special characters
+        .replace(/[^a-zA-Z0-9 \-\/]/g, "")
+
+    return pricempireLink.concat(nameFragment)
 }
 
 writeFamiliesCsv()
