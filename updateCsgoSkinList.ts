@@ -1,6 +1,5 @@
 const parser = require("node-html-parser");
 const fs = require('fs')
-const {createObjectCsvWriter} = require('csv-writer');
 
 interface Item {
     quality: string
@@ -38,7 +37,6 @@ async function getSite() {
     }
 
     writeJson([...skinFamilies], "./skinFamilies.json")
-    writeFamiliesCsv(skinFamilies)
 }
 
 function writeJson(object: any, filePath: string) {
@@ -53,35 +51,6 @@ function writeJson(object: any, filePath: string) {
             console.log('Data written to file successfully.');
         }
     });
-}
-
-function writeFamiliesCsv(skinFamilies: Map<string, SkinFamily>) {
-    // Create a CSV writer
-    const csvWriter = createObjectCsvWriter({
-        path: 'skinFamilies.csv', // Specify the CSV file path
-        header: [
-            {id: 'skinFamilyName', title: 'Skin Family Name'},
-            {id: 'count', title: 'Count'},
-            {id: 'link', title: 'Link'},
-            {id: 'members', title: 'Members'},
-        ],
-    });
-
-    // Prepare data for CSV writing
-    const csvData = [];
-    skinFamilies.forEach((skinFamily, skinFamilyName) => {
-        csvData.push({
-            skinFamilyName,
-            count: skinFamily.count,
-            link: skinFamily.link.toString(),
-            members: Array.from(skinFamily.members.keys()).join(', '),
-        });
-    });
-
-    // Write the data to the CSV file
-    csvWriter.writeRecords(csvData)
-        .then(() => console.log('CSV file created successfully.'))
-        .catch((error) => console.error('Error writing CSV file:', error))
 }
 
 async function fetchSkinListFromFandom() {
