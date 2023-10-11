@@ -12,7 +12,7 @@ interface Item {
 interface SkinFamily {
     count: number
     link: URL
-    members: Map<string, URL>
+    members: [string, URL][]
 }
 
 const fandomUrl = new URL("https://counterstrike.fandom.com/wiki/Skins/List")
@@ -37,7 +37,7 @@ async function getSite() {
         console.log(`${Math.round(i / skinFamilyNames.size * 100)}% done`)
     }
 
-    writeJson(skinFamilies, "./skinFamilies.json")
+    writeJson([...skinFamilies], "./skinFamilies.json")
     writeFamiliesCsv(skinFamilies)
 }
 
@@ -150,7 +150,7 @@ async function fetchSkinFamilyFromCS2Stash(skinFamilyUrl: URL) {
         skinFamily = {
             count: boxes.length,
             link: skinFamilyUrl,
-            members: members
+            members: [...members]
         }
 
     } catch (error) {
