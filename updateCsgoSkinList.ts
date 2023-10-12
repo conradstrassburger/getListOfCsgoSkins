@@ -1,18 +1,6 @@
+import {Item, SkinFamily, writeJson} from "./util";
+
 const parser = require("node-html-parser")
-const fs = require('fs')
-
-interface Item {
-    quality: string
-    skin: string
-    weapon: string
-    collection: string
-}
-
-interface SkinFamily {
-    count: number
-    link: URL
-    members: [string, URL][]
-}
 
 const fandomUrl = new URL("https://counterstrike.fandom.com/wiki/Skins/List")
 
@@ -37,20 +25,10 @@ async function getSite() {
     }
 
     writeJson([...skinFamilies], "./skinFamilies.json")
-}
 
-function writeJson(object: any, filePath: string) {
-    // Convert the array to a JSON string
-    const jsonString = JSON.stringify(object, null, 2); // The second argument is for pretty formatting
+    const gloves = await fetchGloves()
 
-    // Write the JSON string to the file
-    fs.writeFile(filePath, jsonString, (err) => {
-        if (err) {
-            console.error('Error writing to file:', err);
-        } else {
-            console.log('Data written to file successfully.');
-        }
-    });
+    writeJson(gloves, "./gloves.json")
 }
 
 async function fetchSkinListFromFandom() {
@@ -127,6 +105,41 @@ async function fetchSkinFamilyFromCS2Stash(skinFamilyUrl: URL) {
     }
 
     return skinFamily
+}
+
+/**
+ * Gloves are not (yet) included in CS2Stash's Family system, so we do it ourselves
+ */
+async function fetchGloves() {
+    console.log("fetching CS2Stash for gloves");
+
+    const gloves: Item[] = []
+    try {
+        for (let i = 1; i < 3; i++) {
+            const response = await fetch(`https://csgostash.com/gloves?page=${i}`)
+            const html = await response.text()
+            const root = parser.parse(html)
+
+            // Select all result boxes except ad boxes
+            const boxes = root.querySelectorAll('.result-box:not(:has(.abbu-body-resultbox))')
+            // Iterate through the elements and save data to the Map
+            boxes.forEach((element) => {
+                const subElement = element.querySelector('h3 > a')
+                const skinName = subElement.rawText.trim()
+                gloves.push({
+                    quality: "Extraordinary",
+                    weapon: skinName.substring(0, skinName.indexOf(" |")),
+                    collection: "Gloves",
+                    skin: skinName.substring(skinName.indexOf("| ") + 2),
+                    link: subElement.getAttribute('href')
+                })
+            })
+        }
+    } catch (error) {
+        console.error('Error: ', error);
+    }
+
+    return gloves
 }
 
 getSite();
